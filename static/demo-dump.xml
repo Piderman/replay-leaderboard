@@ -1,0 +1,1380 @@
+
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE rF [
+
+<!ENTITY rFEnt "rFactor Entity">
+]>
+<rFactorXML version="1.0">
+	<RaceResults>
+		<Setting>Multiplayer</Setting>
+		<ServerName>PeeWan</ServerName>
+		<PlayerFile>Matty</PlayerFile>
+		<DateTime>1588589825</DateTime>
+		<TimeString>2020/05/04 20:57:05</TimeString>
+		<Mod>F1_1993_F1SR.rfm</Mod>
+		<Season></Season>
+		<TrackVenue>F1 1993 Tracks (F1SR)</TrackVenue>
+		<TrackCourse>Suzuka 1993</TrackCourse>
+		<TrackEvent>Round 15 - 1993 Japanese GP</TrackEvent>
+		<TrackLength>5834.1</TrackLength>
+		<GameVersion>1.255g</GameVersion>
+		<Dedicated>0</Dedicated>
+		<ConnectionType upload="256" download="256">Cable/DSL 256 kbps upload</ConnectionType>
+		<MOTD>Gloves and steering wheel!</MOTD>
+		<RaceLaps>16</RaceLaps>
+		<RaceTime>36</RaceTime>
+		<MechFailRate>0</MechFailRate>
+		<DamageMult>0</DamageMult>
+		<FuelMult>1</FuelMult>
+		<TireMult>2</TireMult>
+		<VehiclesAllowed>|F1_1993</VehiclesAllowed>
+		<ParcFerme>0</ParcFerme>
+		<FixedSetups>0</FixedSetups>
+		<FreeSettings>11</FreeSettings>
+		<FixedUpgrades>0</FixedUpgrades>
+		<Race>
+			<DateTime>1588592220</DateTime>
+			<TimeString>2020/05/04 21:37:00</TimeString>
+			<Laps>16</Laps>
+			<Minutes>36</Minutes>
+			<Stream>
+				<Incident et="47.1">Ukyo Katayama(85) reported contact (0.81) with another vehicle Peter(6)</Incident>
+				<Incident et="47.1">Peter(6) reported contact (0.32) with another vehicle Ukyo Katayama(85)</Incident>
+				<Incident et="47.1">Peter(6) reported contact (0.29) with another vehicle Ukyo Katayama(85)</Incident>
+				<Incident et="47.1">Ukyo Katayama(85) reported contact (0.06) with another vehicle Peter(6)</Incident>
+				<Incident et="47.5">Ukyo Katayama(85) reported contact (0.10) with Immovable</Incident>
+				<Incident et="50.2">Derek Warwick(90) reported contact (0.45) with Immovable</Incident>
+				<Incident et="53.8">Mark Blundell(87) reported contact (0.06) with another vehicle Peter(6)</Incident>
+				<Incident et="69.2">Derek Warwick(90) reported contact (1.00) with Immovable</Incident>
+				<Incident et="72.4">Derek Warwick(90) reported contact (0.29) with Immovable</Incident>
+				<Incident et="72.4">Derek Warwick(90) reported contact (0.10) with Immovable</Incident>
+				<Incident et="74.2">Chops(5) reported contact (0.03) with Immovable</Incident>
+				<Incident et="74.4">Chops(5) reported contact (0.35) with Immovable</Incident>
+				<Incident et="75.9">Derek Warwick(90) reported contact (0.23) with Immovable</Incident>
+				<Incident et="76.7">Derek Warwick(90) reported contact (0.13) with Immovable</Incident>
+				<Incident et="80.7">Derek Warwick(90) reported contact (0.32) with Immovable</Incident>
+				<Score et="82.6">Matty(0) lap=0 point=1 t=41.152 et=82.572</Score>
+				<Score et="83.4">Ayrton Senna(82) lap=0 point=1 t=41.964 et=83.384</Score>
+				<Score et="84.1">Damon Hill(84) lap=0 point=1 t=42.646 et=84.066</Score>
+				<Incident et="84.7">Derek Warwick(90) reported contact (0.13) with Track</Incident>
+				<Score et="85.6">Michael Schumacher(86) lap=0 point=1 t=44.188 et=85.608</Score>
+				<Incident et="85.9">Derek Warwick(90) reported contact (0.06) with Track</Incident>
+				<Incident et="86.1">Derek Warwick(90) reported contact (0.00) with Track</Incident>
+				<Score et="86.2">Michael Andretti(83) lap=0 point=1 t=44.802 et=86.222</Score>
+				<Score et="87.4">Rubens Barrichello(88) lap=0 point=1 t=45.962 et=87.382</Score>
+				<Score et="87.5">Peter(6) lap=0 point=1 t=46.039 et=87.459</Score>
+				<Score et="87.9">Chris Plumridge(4) lap=0 point=1 t=46.392 et=87.812</Score>
+				<Score et="88.0">Mark Blundell(87) lap=0 point=1 t=46.547 et=87.967</Score>
+				<Score et="88.3">Erik Comas(89) lap=0 point=1 t=46.899 et=88.319</Score>
+				<Score et="88.7">Ukyo Katayama(85) lap=0 point=1 t=47.219 et=88.639</Score>
+				<Score et="88.9">Johnny Herbert(91) lap=0 point=1 t=47.424 et=88.844</Score>
+				<Incident et="89.6">Derek Warwick(90) reported contact (0.19) with Immovable</Incident>
+				<Incident et="91.2">Derek Warwick(90) reported contact (0.10) with Immovable</Incident>
+				<Score et="91.4">Chops(5) lap=0 point=1 t=49.840 et=91.260</Score>
+				<Score et="129.5">Derek Warwick(90) lap=0 point=1 t=88.024 et=129.444</Score>
+				<Score et="134.5">Ayrton Senna(82) lap=0 point=2 t=93.022 et=134.442</Score>
+				<Score et="136.0">Matty(0) lap=0 point=2 t=94.545 et=135.965</Score>
+				<Score et="136.1">Damon Hill(84) lap=0 point=2 t=94.624 et=136.044</Score>
+				<Score et="136.1">Michael Schumacher(86) lap=0 point=2 t=94.614 et=136.034</Score>
+				<Score et="136.3">Peter(6) lap=0 point=2 t=94.820 et=136.240</Score>
+				<Incident et="136.7">Damon Hill(84) reported contact (0.58) with another vehicle Peter(6)</Incident>
+				<Incident et="136.7">Damon Hill(84) reported contact (0.84) with another vehicle Peter(6)</Incident>
+				<Incident et="136.8">Damon Hill(84) reported contact (0.19) with another vehicle Peter(6)</Incident>
+				<Incident et="136.8">Damon Hill(84) reported contact (0.45) with another vehicle Peter(6)</Incident>
+				<Incident et="136.8">Peter(6) reported contact (1.00) with another vehicle Damon Hill(84)</Incident>
+				<Incident et="136.8">Peter(6) reported contact (0.03) with another vehicle Damon Hill(84)</Incident>
+				<Score et="137.7">Michael Andretti(83) lap=0 point=2 t=96.294 et=137.714</Score>
+				<Incident et="137.7">Damon Hill(84) reported contact (0.13) with another vehicle Peter(6)</Incident>
+				<Score et="137.8">Chris Plumridge(4) lap=0 point=2 t=96.340 et=137.760</Score>
+				<Incident et="138.3">Damon Hill(84) reported contact (0.06) with another vehicle Peter(6)</Incident>
+				<Incident et="138.4">Peter(6) reported contact (0.03) with another vehicle Damon Hill(84)</Incident>
+				<Score et="139.1">Rubens Barrichello(88) lap=0 point=2 t=97.611 et=139.031</Score>
+				<Incident et="140.9">Peter(6) reported contact (0.19) with Immovable</Incident>
+				<Incident et="141.0">Peter(6) reported contact (0.42) with Immovable</Incident>
+				<Incident et="141.1">Peter(6) reported contact (0.03) with Immovable</Incident>
+				<Incident et="141.3">Peter(6) reported contact (0.06) with Immovable</Incident>
+				<Score et="141.4">Mark Blundell(87) lap=0 point=2 t=100.006 et=141.426</Score>
+				<Score et="142.6">Chops(5) lap=0 point=2 t=101.103 et=142.523</Score>
+				<Score et="143.0">Johnny Herbert(91) lap=0 point=2 t=101.607 et=143.027</Score>
+				<Score et="143.2">Ukyo Katayama(85) lap=0 point=2 t=101.793 et=143.213</Score>
+				<Score et="143.3">Erik Comas(89) lap=0 point=2 t=101.883 et=143.303</Score>
+				<Incident et="153.3">Johnny Herbert(91) reported contact (0.23) with Cone</Incident>
+				<Incident et="153.3">Johnny Herbert(91) reported contact (0.13) with Cone</Incident>
+				<Incident et="153.3">Johnny Herbert(91) reported contact (0.10) with Cone</Incident>
+				<Score et="155.1">Ayrton Senna(82) lap=1 point=0 t=113.688 et=155.108</Score>
+				<Score et="156.8">Michael Schumacher(86) lap=1 point=0 t=115.331 et=156.751</Score>
+				<Score et="158.8">Chris Plumridge(4) lap=1 point=0 t=117.307 et=158.727</Score>
+				<Score et="160.3">Michael Andretti(83) lap=1 point=0 t=118.836 et=160.256</Score>
+				<Score et="160.5">Rubens Barrichello(88) lap=1 point=0 t=119.030 et=160.450</Score>
+				<Score et="161.8">Mark Blundell(87) lap=1 point=0 t=120.332 et=161.752</Score>
+				<Score et="162.8">Chops(5) lap=1 point=0 t=121.241 et=162.661</Score>
+				<Score et="163.7">Matty(0) lap=1 point=0 t=122.275 et=163.695</Score>
+				<Score et="164.3">Peter(6) lap=1 point=0 t=122.876 et=164.296</Score>
+				<Score et="164.5">Johnny Herbert(91) lap=1 point=0 t=123.050 et=164.470</Score>
+				<Score et="164.8">Ukyo Katayama(85) lap=1 point=0 t=123.331 et=164.751</Score>
+				<Score et="165.0">Erik Comas(89) lap=1 point=0 t=123.578 et=164.998</Score>
+				<Score et="170.3">Damon Hill(84) lap=1 point=0 t=128.831 et=170.251</Score>
+				<Score et="180.7">Derek Warwick(90) lap=0 point=2 t=139.214 et=180.633</Score>
+				<Score et="196.7">Ayrton Senna(82) lap=1 point=1 t=41.608 et=196.716</Score>
+				<Score et="196.8">Michael Schumacher(86) lap=1 point=1 t=40.074 et=196.825</Score>
+				<Score et="197.6">Chris Plumridge(4) lap=1 point=1 t=38.799 et=197.526</Score>
+				<Score et="200.6">Rubens Barrichello(88) lap=1 point=1 t=40.132 et=200.582</Score>
+				<Score et="201.2">Derek Warwick(90) lap=1 point=0 t=159.778 et=201.198</Score>
+				<Score et="201.4">Michael Andretti(83) lap=1 point=1 t=41.118 et=201.374</Score>
+				<Score et="202.1">Mark Blundell(87) lap=1 point=1 t=40.336 et=202.088</Score>
+				<Score et="205.0">Johnny Herbert(91) lap=1 point=1 t=40.530 et=205.000</Score>
+				<Score et="205.7">Ukyo Katayama(85) lap=1 point=1 t=40.963 et=205.714</Score>
+				<Score et="206.0">Chops(5) lap=1 point=1 t=43.305 et=205.966</Score>
+				<Score et="206.2">Erik Comas(89) lap=1 point=1 t=41.172 et=206.170</Score>
+				<Incident et="206.8">Ukyo Katayama(85) reported contact (0.32) with another vehicle Chops(5)</Incident>
+				<Incident et="206.8">Ukyo Katayama(85) reported contact (0.52) with another vehicle Chops(5)</Incident>
+				<Incident et="206.8">Ukyo Katayama(85) reported contact (0.06) with another vehicle Chops(5)</Incident>
+				<Incident et="206.8">Ukyo Katayama(85) reported contact (0.26) with another vehicle Chops(5)</Incident>
+				<Incident et="206.8">Ukyo Katayama(85) reported contact (0.10) with another vehicle Chops(5)</Incident>
+				<Incident et="206.8">Chops(5) reported contact (1.00) with another vehicle Ukyo Katayama(85)</Incident>
+				<Incident et="206.9">Chops(5) reported contact (0.61) with another vehicle Ukyo Katayama(85)</Incident>
+				<Incident et="206.9">Chops(5) reported contact (0.03) with another vehicle Ukyo Katayama(85)</Incident>
+				<Score et="210.6">Peter(6) lap=1 point=1 t=46.288 et=210.584</Score>
+				<Score et="210.7">Damon Hill(84) lap=1 point=1 t=40.470 et=210.721</Score>
+				<Score et="218.4">Matty(0) lap=1 point=1 t=54.666 et=218.361</Score>
+				<Score et="242.0">Derek Warwick(90) lap=1 point=1 t=40.762 et=241.960</Score>
+				<Score et="248.6">Ayrton Senna(82) lap=1 point=2 t=93.512 et=248.620</Score>
+				<Score et="248.8">Chris Plumridge(4) lap=1 point=2 t=90.042 et=248.769</Score>
+				<Score et="249.0">Michael Schumacher(86) lap=1 point=2 t=92.179 et=248.930</Score>
+				<Score et="250.8">Rubens Barrichello(88) lap=1 point=2 t=90.348 et=250.798</Score>
+				<Score et="252.3">Michael Andretti(83) lap=1 point=2 t=92.011 et=252.267</Score>
+				<Score et="253.3">Mark Blundell(87) lap=1 point=2 t=91.536 et=253.288</Score>
+				<Score et="255.5">Johnny Herbert(91) lap=1 point=2 t=90.970 et=255.441</Score>
+				<Score et="257.8">Chops(5) lap=1 point=2 t=95.096 et=257.757</Score>
+				<Score et="258.4">Erik Comas(89) lap=1 point=2 t=93.424 et=258.422</Score>
+				<Score et="260.2">Ukyo Katayama(85) lap=1 point=2 t=95.433 et=260.185</Score>
+				<Score et="262.0">Damon Hill(84) lap=1 point=2 t=91.744 et=261.995</Score>
+				<Score et="263.6">Peter(6) lap=1 point=2 t=99.252 et=263.548</Score>
+				<Score et="266.3">Matty(0) lap=1 point=2 t=102.612 et=266.306</Score>
+				<Score et="269.6">Ayrton Senna(82) lap=2 point=0 t=114.510 et=269.618</Score>
+				<Score et="270.4">Chris Plumridge(4) lap=2 point=0 t=111.639 et=270.366</Score>
+				<Score et="270.6">Michael Schumacher(86) lap=2 point=0 t=113.787 et=270.538</Score>
+				<Score et="271.1">Rubens Barrichello(88) lap=2 point=0 t=110.650 et=271.100</Score>
+				<Score et="272.6">Michael Andretti(83) lap=2 point=0 t=112.290 et=272.546</Score>
+				<Score et="273.7">Mark Blundell(87) lap=2 point=0 t=111.974 et=273.726</Score>
+				<Score et="275.6">Johnny Herbert(91) lap=2 point=0 t=111.103 et=275.574</Score>
+				<Score et="278.1">Chops(5) lap=2 point=0 t=115.396 et=278.057</Score>
+				<Score et="278.9">Erik Comas(89) lap=2 point=0 t=113.893 et=278.890</Score>
+				<Score et="280.7">Ukyo Katayama(85) lap=2 point=0 t=115.935 et=280.686</Score>
+				<Score et="282.2">Damon Hill(84) lap=2 point=0 t=111.971 et=282.221</Score>
+				<Score et="283.9">Peter(6) lap=2 point=0 t=119.605 et=283.901</Score>
+				<Score et="285.5">Matty(0) lap=2 point=0 t=121.748 et=285.442</Score>
+				<Score et="294.0">Derek Warwick(90) lap=1 point=2 t=92.799 et=293.998</Score>
+				<Score et="309.1">Chris Plumridge(4) lap=2 point=1 t=38.669 et=309.035</Score>
+				<Score et="310.9">Ayrton Senna(82) lap=2 point=1 t=41.260 et=310.878</Score>
+				<Score et="312.2">Michael Schumacher(86) lap=2 point=1 t=41.595 et=312.133</Score>
+				<Score et="312.4">Rubens Barrichello(88) lap=2 point=1 t=41.308 et=312.408</Score>
+				<Score et="312.9">Michael Andretti(83) lap=2 point=1 t=40.296 et=312.842</Score>
+				<Score et="314.1">Mark Blundell(87) lap=2 point=1 t=40.390 et=314.116</Score>
+				<Score et="314.5">Derek Warwick(90) lap=2 point=0 t=113.320 et=314.518</Score>
+				<Score et="315.5">Johnny Herbert(91) lap=2 point=1 t=39.866 et=315.440</Score>
+				<Score et="318.3">Chops(5) lap=2 point=1 t=40.192 et=318.250</Score>
+				<Score et="319.7">Erik Comas(89) lap=2 point=1 t=40.781 et=319.671</Score>
+				<Score et="321.4">Ukyo Katayama(85) lap=2 point=1 t=40.643 et=321.329</Score>
+				<Score et="322.1">Damon Hill(84) lap=2 point=1 t=39.865 et=322.086</Score>
+				<Score et="323.5">Matty(0) lap=2 point=1 t=38.069 et=323.511</Score>
+				<Incident et="324.2">Peter(6) reported contact (0.48) with Immovable</Incident>
+				<Incident et="324.2">Peter(6) reported contact (1.00) with Immovable</Incident>
+				<Incident et="333.4">Erik Comas(89) reported contact (0.58) with another vehicle Chops(5)</Incident>
+				<Incident et="333.5">Erik Comas(89) reported contact (0.10) with another vehicle Chops(5)</Incident>
+				<Incident et="333.5">Chops(5) reported contact (0.19) with another vehicle Erik Comas(89)</Incident>
+				<Incident et="333.5">Chops(5) reported contact (0.13) with another vehicle Erik Comas(89)</Incident>
+				<Incident et="333.5">Chops(5) reported contact (0.16) with another vehicle Erik Comas(89)</Incident>
+				<Incident et="337.7">Erik Comas(89) reported contact (1.00) with Immovable</Incident>
+				<Incident et="337.8">Erik Comas(89) reported contact (0.03) with Immovable</Incident>
+				<Score et="340.8">Peter(6) lap=2 point=1 t=56.919 et=340.820</Score>
+				<Incident et="342.6">Matty(0) reported contact (1.00) with Immovable</Incident>
+				<Incident et="342.6">Matty(0) reported contact (0.10) with Immovable</Incident>
+				<Incident et="343.0">Matty(0) reported contact (0.19) with Immovable</Incident>
+				<Incident et="343.9">Matty(0) reported contact (0.23) with another vehicle Damon Hill(84)</Incident>
+				<Incident et="353.9">Peter(6) reported contact (0.39) with Immovable</Incident>
+				<Score et="355.4">Derek Warwick(90) lap=2 point=1 t=40.833 et=355.351</Score>
+				<Score et="356.7">Chris Plumridge(4) lap=2 point=2 t=86.242 et=356.607</Score>
+				<Incident et="359.5">Erik Comas(89) reported contact (0.65) with Immovable</Incident>
+				<Incident et="359.6">Erik Comas(89) reported contact (0.19) with Immovable</Incident>
+				<Score et="361.4">Ayrton Senna(82) lap=2 point=2 t=91.790 et=361.408</Score>
+				<Incident et="361.8">Peter(6) reported contact (0.03) with Immovable</Incident>
+				<Score et="365.9">Michael Schumacher(86) lap=2 point=2 t=95.384 et=365.922</Score>
+				<Score et="366.0">Rubens Barrichello(88) lap=2 point=2 t=94.913 et=366.013</Score>
+				<Score et="366.1">Michael Andretti(83) lap=2 point=2 t=93.566 et=366.112</Score>
+				<Score et="366.2">Mark Blundell(87) lap=2 point=2 t=92.482 et=366.209</Score>
+				<Score et="366.3">Johnny Herbert(91) lap=2 point=2 t=90.746 et=366.320</Score>
+				<Incident et="367.0">Michael Schumacher(86) reported contact (0.03) with another vehicle Rubens Barrichello(88)</Incident>
+				<Score et="370.9">Chops(5) lap=2 point=2 t=92.762 et=370.819</Score>
+				<Score et="372.7">Ukyo Katayama(85) lap=2 point=2 t=91.988 et=372.674</Score>
+				<Score et="374.0">Damon Hill(84) lap=2 point=2 t=91.767 et=373.989</Score>
+				<Score et="376.6">Chris Plumridge(4) lap=3 point=0 t=106.118 et=376.484</Score>
+				<Score et="377.6">Matty(0) lap=2 point=2 t=92.164 et=377.607</Score>
+				<Score et="381.5">Ayrton Senna(82) lap=3 point=0 t=111.846 et=381.464</Score>
+				<Score et="389.1">Rubens Barrichello(88) lap=3 point=0 t=118.007 et=389.106</Score>
+				<Score et="389.6">Michael Schumacher(86) lap=3 point=0 t=119.080 et=389.618</Score>
+				<Score et="389.8">Johnny Herbert(91) lap=3 point=0 t=114.178 et=389.752</Score>
+				<Score et="390.4">Michael Andretti(83) lap=3 point=0 t=117.859 et=390.405</Score>
+				<Score et="390.6">Mark Blundell(87) lap=3 point=0 t=116.812 et=390.538</Score>
+				<Score et="390.9">Chops(5) lap=3 point=0 t=112.807 et=390.865</Score>
+				<Score et="393.1">Ukyo Katayama(85) lap=3 point=0 t=112.402 et=393.089</Score>
+				<Score et="394.3">Damon Hill(84) lap=3 point=0 t=112.095 et=394.317</Score>
+				<Score et="396.7">Matty(0) lap=3 point=0 t=111.275 et=396.718</Score>
+				<Incident et="399.2">Peter(6) reported contact (0.10) with Immovable</Incident>
+				<Incident et="399.4">Peter(6) reported contact (0.13) with Immovable</Incident>
+				<Score et="400.9">Erik Comas(89) lap=2 point=2 t=121.977 et=400.868</Score>
+				<Incident et="404.1">Rubens Barrichello(88) reported contact (0.06) with another vehicle Chops(5)</Incident>
+				<Incident et="404.1">Chops(5) reported contact (0.03) with another vehicle Rubens Barrichello(88)</Incident>
+				<Score et="407.0">Derek Warwick(90) lap=2 point=2 t=92.433 et=406.951</Score>
+				<Incident et="408.1">Rubens Barrichello(88) reported contact (0.81) with another vehicle Chops(5)</Incident>
+				<Incident et="408.1">Rubens Barrichello(88) reported contact (0.45) with another vehicle Chops(5)</Incident>
+				<Incident et="408.2">Chops(5) reported contact (0.87) with another vehicle Rubens Barrichello(88)</Incident>
+				<Score et="414.7">Chris Plumridge(4) lap=3 point=1 t=38.206 et=414.689</Score>
+				<Score et="415.3">Peter(6) lap=2 point=2 t=131.391 et=415.292</Score>
+				<Incident et="417.5">Matty(0) reported contact (0.55) with another vehicle Damon Hill(84)</Incident>
+				<Score et="421.4">Erik Comas(89) lap=3 point=0 t=142.506 et=421.397</Score>
+				<Score et="421.5">Ayrton Senna(82) lap=3 point=1 t=39.986 et=421.450</Score>
+				<Incident et="424.6">Mark Blundell(87) reported contact (0.06) with another vehicle Matty(0)</Incident>
+				<Score et="427.5">Derek Warwick(90) lap=3 point=0 t=112.932 et=427.450</Score>
+				<Score et="433.2">Chops(5) lap=3 point=1 t=42.251 et=433.116</Score>
+				<Score et="433.3">Johnny Herbert(91) lap=3 point=1 t=43.507 et=433.260</Score>
+				<Score et="435.6">Peter(6) lap=3 point=0 t=151.657 et=435.558</Score>
+				<Score et="435.9">Rubens Barrichello(88) lap=3 point=1 t=46.767 et=435.873</Score>
+				<Score et="436.2">Michael Schumacher(86) lap=3 point=1 t=46.564 et=436.182</Score>
+				<Score et="436.3">Mark Blundell(87) lap=3 point=1 t=45.778 et=436.316</Score>
+				<Score et="436.7">Matty(0) lap=3 point=1 t=39.930 et=436.648</Score>
+				<Score et="437.8">Michael Andretti(83) lap=3 point=1 t=47.372 et=437.777</Score>
+				<Score et="437.9">Ukyo Katayama(85) lap=3 point=1 t=44.812 et=437.900</Score>
+				<Score et="438.1">Damon Hill(84) lap=3 point=1 t=43.729 et=438.045</Score>
+				<Score et="462.3">Chris Plumridge(4) lap=3 point=2 t=85.725 et=462.209</Score>
+				<Score et="462.3">Erik Comas(89) lap=3 point=1 t=40.890 et=462.287</Score>
+				<Score et="468.3">Derek Warwick(90) lap=3 point=1 t=40.856 et=468.306</Score>
+				<Score et="472.8">Ayrton Senna(82) lap=3 point=2 t=91.305 et=472.768</Score>
+				<Score et="482.9">Chris Plumridge(4) lap=4 point=0 t=106.410 et=482.894</Score>
+				<Score et="483.9">Chops(5) lap=3 point=2 t=92.958 et=483.823</Score>
+				<Score et="484.5">Johnny Herbert(91) lap=3 point=2 t=94.705 et=484.457</Score>
+				<Score et="487.6">Matty(0) lap=3 point=2 t=90.874 et=487.592</Score>
+				<Score et="489.8">Rubens Barrichello(88) lap=3 point=2 t=100.690 et=489.796</Score>
+				<Score et="489.9">Michael Schumacher(86) lap=3 point=2 t=100.276 et=489.894</Score>
+				<Score et="490.0">Mark Blundell(87) lap=3 point=2 t=99.450 et=489.988</Score>
+				<Score et="492.0">Ukyo Katayama(85) lap=3 point=2 t=98.933 et=492.021</Score>
+				<Score et="492.9">Ayrton Senna(82) lap=4 point=0 t=111.392 et=492.855</Score>
+				<Score et="493.3">Damon Hill(84) lap=3 point=2 t=99.004 et=493.321</Score>
+				<Score et="495.5">Michael Andretti(83) lap=3 point=2 t=105.051 et=495.456</Score>
+				<Incident et="496.0">Peter(6) reported contact (0.77) with Immovable</Incident>
+				<Incident et="496.6">Peter(6) reported contact (0.03) with Immovable</Incident>
+				<Incident et="501.8">Peter(6) reported contact (0.06) with Immovable</Incident>
+				<Score et="504.7">Chops(5) lap=4 point=0 t=113.784 et=504.649</Score>
+				<Score et="505.2">Johnny Herbert(91) lap=4 point=0 t=115.389 et=505.141</Score>
+				<Score et="507.5">Matty(0) lap=4 point=0 t=110.756 et=507.474</Score>
+				<Score et="510.6">Rubens Barrichello(88) lap=4 point=0 t=121.427 et=510.533</Score>
+				<Score et="511.6">Michael Schumacher(86) lap=4 point=0 t=121.938 et=511.556</Score>
+				<Score et="511.8">Mark Blundell(87) lap=4 point=0 t=121.262 et=511.799</Score>
+				<Score et="513.2">Ukyo Katayama(85) lap=4 point=0 t=120.111 et=513.200</Score>
+				<Score et="513.7">Damon Hill(84) lap=4 point=0 t=119.358 et=513.675</Score>
+				<Score et="513.8">Erik Comas(89) lap=3 point=2 t=92.376 et=513.773</Score>
+				<Score et="517.6">Michael Andretti(83) lap=4 point=0 t=127.177 et=517.582</Score>
+				<Score et="519.6">Derek Warwick(90) lap=3 point=2 t=92.086 et=519.537</Score>
+				<Score et="522.4">Chris Plumridge(4) lap=4 point=1 t=39.407 et=522.301</Score>
+				<Score et="532.9">Ayrton Senna(82) lap=4 point=1 t=40.042 et=532.897</Score>
+				<Score et="534.3">Erik Comas(89) lap=4 point=0 t=112.919 et=534.316</Score>
+				<Score et="540.3">Derek Warwick(90) lap=4 point=0 t=112.790 et=540.240</Score>
+				<Score et="545.4">Johnny Herbert(91) lap=4 point=1 t=40.268 et=545.409</Score>
+				<Score et="546.1">Matty(0) lap=4 point=1 t=38.587 et=546.061</Score>
+				<Score et="546.5">Chops(5) lap=4 point=1 t=41.821 et=546.469</Score>
+				<Score et="550.6">Rubens Barrichello(88) lap=4 point=1 t=40.076 et=550.609</Score>
+				<Score et="551.6">Michael Schumacher(86) lap=4 point=1 t=40.007 et=551.563</Score>
+				<Score et="552.5">Mark Blundell(87) lap=4 point=1 t=40.649 et=552.448</Score>
+				<Score et="554.8">Peter(6) lap=3 point=1 t=119.248 et=554.806</Score>
+				<Score et="557.9">Ukyo Katayama(85) lap=4 point=1 t=44.672 et=557.872</Score>
+				<Score et="558.0">Damon Hill(84) lap=4 point=1 t=44.322 et=557.996</Score>
+				<Score et="560.8">Michael Andretti(83) lap=4 point=1 t=43.149 et=560.731</Score>
+				<Score et="570.3">Chris Plumridge(4) lap=4 point=2 t=87.346 et=570.240</Score>
+				<Score et="575.3">Erik Comas(89) lap=4 point=1 t=40.924 et=575.240</Score>
+				<Score et="581.1">Derek Warwick(90) lap=4 point=1 t=40.882 et=581.122</Score>
+				<Score et="583.6">Ayrton Senna(82) lap=4 point=2 t=90.734 et=583.589</Score>
+				<Score et="591.1">Chris Plumridge(4) lap=5 point=0 t=108.180 et=591.074</Score>
+				<Score et="595.8">Matty(0) lap=4 point=2 t=88.326 et=595.800</Score>
+				<Score et="596.7">Johnny Herbert(91) lap=4 point=2 t=91.569 et=596.710</Score>
+				<Score et="598.2">Chops(5) lap=4 point=2 t=93.544 et=598.193</Score>
+				<Score et="601.0">Rubens Barrichello(88) lap=4 point=2 t=90.478 et=601.012</Score>
+				<Score et="602.2">Michael Schumacher(86) lap=4 point=2 t=90.658 et=602.214</Score>
+				<Score et="603.6">Ayrton Senna(82) lap=5 point=0 t=110.752 et=603.607</Score>
+				<Score et="603.9">Mark Blundell(87) lap=4 point=2 t=92.036 et=603.835</Score>
+				<Score et="611.7">Damon Hill(84) lap=4 point=2 t=98.009 et=611.684</Score>
+				<Score et="612.7">Ukyo Katayama(85) lap=4 point=2 t=99.517 et=612.717</Score>
+				<Score et="612.8">Michael Andretti(83) lap=4 point=2 t=95.231 et=612.813</Score>
+				<Score et="615.4">Matty(0) lap=5 point=0 t=107.914 et=615.388</Score>
+				<Score et="617.6">Johnny Herbert(91) lap=5 point=0 t=112.398 et=617.539</Score>
+				<Score et="619.7">Chops(5) lap=5 point=0 t=114.963 et=619.612</Score>
+				<Score et="621.4">Rubens Barrichello(88) lap=5 point=0 t=110.884 et=621.417</Score>
+				<Score et="622.7">Michael Schumacher(86) lap=5 point=0 t=111.142 et=622.698</Score>
+				<Score et="624.3">Mark Blundell(87) lap=5 point=0 t=112.476 et=624.275</Score>
+				<Score et="626.9">Erik Comas(89) lap=4 point=2 t=92.539 et=626.855</Score>
+				<Score et="629.5">Chris Plumridge(4) lap=5 point=1 t=38.368 et=629.442</Score>
+				<Score et="631.8">Damon Hill(84) lap=5 point=0 t=118.097 et=631.772</Score>
+				<Score et="632.5">Derek Warwick(90) lap=4 point=2 t=92.237 et=632.477</Score>
+				<Score et="633.7">Ukyo Katayama(85) lap=5 point=0 t=120.441 et=633.641</Score>
+				<Score et="633.8">Michael Andretti(83) lap=5 point=0 t=116.210 et=633.791</Score>
+				<Incident et="641.1">Ukyo Katayama(85) reported contact (0.06) with another vehicle Michael Andretti(83)</Incident>
+				<Score et="643.6">Ayrton Senna(82) lap=5 point=1 t=39.949 et=643.556</Score>
+				<Score et="647.4">Erik Comas(89) lap=5 point=0 t=113.079 et=647.395</Score>
+				<Score et="653.0">Matty(0) lap=5 point=1 t=37.546 et=652.934</Score>
+				<Score et="653.1">Derek Warwick(90) lap=5 point=0 t=112.859 et=653.099</Score>
+				<Incident et="653.4">Mark Blundell(87) reported contact (0.87) with Immovable</Incident>
+				<Score et="657.8">Johnny Herbert(91) lap=5 point=1 t=40.224 et=657.764</Score>
+				<Score et="658.9">Chops(5) lap=5 point=1 t=39.195 et=658.807</Score>
+				<Score et="661.4">Rubens Barrichello(88) lap=5 point=1 t=39.982 et=661.399</Score>
+				<Score et="662.6">Michael Schumacher(86) lap=5 point=1 t=39.838 et=662.536</Score>
+				<Score et="667.8">Peter(6) lap=3 point=2 t=232.163 et=667.720</Score>
+				<Incident et="671.7">Michael Andretti(83) reported contact (1.00) with Immovable</Incident>
+				<Incident et="671.8">Michael Andretti(83) reported contact (0.45) with Immovable</Incident>
+				<Score et="672.7">Mark Blundell(87) lap=5 point=1 t=48.368 et=672.643</Score>
+				<Incident et="673.3">Michael Andretti(83) reported contact (0.06) with Immovable</Incident>
+				<Incident et="673.9">Michael Andretti(83) reported contact (0.10) with Immovable</Incident>
+				<Incident et="673.9">Michael Andretti(83) reported contact (0.29) with Immovable</Incident>
+				<Incident et="675.2">Michael Andretti(83) reported contact (0.03) with Immovable</Incident>
+				<Incident et="675.2">Michael Andretti(83) reported contact (0.06) with Immovable</Incident>
+				<Score et="675.4">Damon Hill(84) lap=5 point=1 t=43.644 et=675.416</Score>
+				<Incident et="675.9">Michael Andretti(83) reported contact (0.32) with Immovable</Incident>
+				<Incident et="676.4">Michael Andretti(83) reported contact (0.39) with Immovable</Incident>
+				<Incident et="677.2">Michael Andretti(83) reported contact (0.10) with Immovable</Incident>
+				<Incident et="677.7">Michael Andretti(83) reported contact (0.42) with Immovable</Incident>
+				<Score et="677.7">Chris Plumridge(4) lap=5 point=2 t=86.598 et=677.672</Score>
+				<Incident et="679.3">Michael Andretti(83) reported contact (0.26) with Immovable</Incident>
+				<Incident et="679.8">Michael Andretti(83) reported contact (0.35) with Immovable</Incident>
+				<Incident et="680.1">Michael Andretti(83) reported contact (0.00) with Immovable</Incident>
+				<Incident et="681.2">Michael Andretti(83) reported contact (0.06) with Immovable</Incident>
+				<Score et="681.4">Ukyo Katayama(85) lap=5 point=1 t=47.770 et=681.411</Score>
+				<Incident et="681.5">Peter(6) reported contact (1.00) with Immovable</Incident>
+				<Score et="689.4">Erik Comas(89) lap=5 point=1 t=41.981 et=689.376</Score>
+				<Score et="694.0">Derek Warwick(90) lap=5 point=1 t=40.898 et=693.997</Score>
+				<Score et="694.5">Ayrton Senna(82) lap=5 point=2 t=90.878 et=694.485</Score>
+				<Score et="698.5">Chris Plumridge(4) lap=6 point=0 t=107.399 et=698.473</Score>
+				<Score et="699.5">Peter(6) lap=4 point=0 t=263.911 et=699.468</Score>
+				<Score et="701.5">Matty(0) lap=5 point=2 t=86.054 et=701.442</Score>
+				<Score et="705.8">Michael Andretti(83) lap=5 point=1 t=71.970 et=705.762</Score>
+				<Score et="708.2">Johnny Herbert(91) lap=5 point=2 t=90.596 et=708.136</Score>
+				<Score et="709.3">Chops(5) lap=5 point=2 t=89.562 et=709.174</Score>
+				<Score et="712.2">Rubens Barrichello(88) lap=5 point=2 t=90.802 et=712.219</Score>
+				<Incident et="713.2">Peter(6) reported contact (0.19) with Immovable</Incident>
+				<Incident et="713.5">Peter(6) reported contact (0.06) with Immovable</Incident>
+				<Score et="713.9">Michael Schumacher(86) lap=5 point=2 t=91.213 et=713.911</Score>
+				<Score et="715.0">Ayrton Senna(82) lap=6 point=0 t=111.408 et=715.015</Score>
+				<Score et="721.0">Matty(0) lap=6 point=0 t=105.561 et=720.950</Score>
+				<Score et="723.6">Mark Blundell(87) lap=5 point=2 t=99.266 et=723.542</Score>
+				<Score et="726.2">Damon Hill(84) lap=5 point=2 t=94.403 et=726.175</Score>
+				<Score et="728.5">Johnny Herbert(91) lap=6 point=0 t=110.901 et=728.440</Score>
+				<Score et="729.8">Chops(5) lap=6 point=0 t=110.131 et=729.744</Score>
+				<Score et="732.3">Rubens Barrichello(88) lap=6 point=0 t=110.883 et=732.300</Score>
+				<Score et="733.1">Ukyo Katayama(85) lap=5 point=2 t=99.389 et=733.030</Score>
+				<Score et="735.2">Michael Schumacher(86) lap=6 point=0 t=112.529 et=735.227</Score>
+				<Score et="737.2">Chris Plumridge(4) lap=6 point=1 t=38.688 et=737.161</Score>
+				<Score et="740.8">Erik Comas(89) lap=5 point=2 t=93.414 et=740.809</Score>
+				<Score et="743.8">Mark Blundell(87) lap=6 point=0 t=119.488 et=743.763</Score>
+				<Score et="745.5">Derek Warwick(90) lap=5 point=2 t=92.333 et=745.432</Score>
+				<Score et="746.6">Damon Hill(84) lap=6 point=0 t=114.789 et=746.562</Score>
+				<Score et="753.5">Ukyo Katayama(85) lap=6 point=0 t=119.836 et=753.477</Score>
+				<Score et="755.0">Ayrton Senna(82) lap=6 point=1 t=39.988 et=755.003</Score>
+				<Score et="757.0">Michael Andretti(83) lap=5 point=2 t=123.153 et=756.944</Score>
+				<Score et="759.3">Matty(0) lap=6 point=1 t=38.370 et=759.319</Score>
+				<Score et="761.3">Erik Comas(89) lap=6 point=0 t=113.927 et=761.322</Score>
+				<Score et="766.6">Derek Warwick(90) lap=6 point=0 t=113.493 et=766.593</Score>
+				<Score et="768.3">Johnny Herbert(91) lap=6 point=1 t=39.836 et=768.276</Score>
+				<Score et="772.8">Rubens Barrichello(88) lap=6 point=1 t=40.514 et=772.813</Score>
+				<Score et="777.4">Michael Andretti(83) lap=6 point=0 t=143.598 et=777.390</Score>
+				<Score et="779.4">Michael Schumacher(86) lap=6 point=1 t=44.180 et=779.407</Score>
+				<Score et="785.5">Chops(5) lap=6 point=1 t=55.746 et=785.490</Score>
+				<Score et="785.6">Mark Blundell(87) lap=6 point=1 t=41.853 et=785.616</Score>
+				<Score et="786.1">Chris Plumridge(4) lap=6 point=2 t=87.559 et=786.033</Score>
+				<Score et="786.4">Damon Hill(84) lap=6 point=1 t=39.864 et=786.425</Score>
+				<Score et="794.2">Ukyo Katayama(85) lap=6 point=1 t=40.716 et=794.193</Score>
+				<Score et="802.2">Erik Comas(89) lap=6 point=1 t=40.857 et=802.179</Score>
+				<Incident et="804.9">Chops(5) reported contact (1.00) with Immovable</Incident>
+				<Incident et="804.9">Chops(5) reported contact (0.39) with Immovable</Incident>
+				<Score et="806.1">Chris Plumridge(4) lap=7 point=0 t=107.602 et=806.075</Score>
+				<Score et="806.7">Ayrton Senna(82) lap=6 point=2 t=91.669 et=806.684</Score>
+				<Score et="807.0">Matty(0) lap=6 point=2 t=85.981 et=806.931</Score>
+				<Score et="810.1">Derek Warwick(90) lap=6 point=1 t=43.530 et=810.123</Score>
+				<Incident et="814.2">Matty(0) reported contact (0.65) with another vehicle Ayrton Senna(82)</Incident>
+				<Score et="818.7">Michael Andretti(83) lap=6 point=1 t=41.260 et=818.649</Score>
+				<Score et="819.0">Johnny Herbert(91) lap=6 point=2 t=90.574 et=819.014</Score>
+				<Score et="825.7">Rubens Barrichello(88) lap=6 point=2 t=93.375 et=825.675</Score>
+				<Score et="827.6">Peter(6) lap=4 point=1 t=128.144 et=827.613</Score>
+				<Score et="828.0">Ayrton Senna(82) lap=7 point=0 t=112.928 et=827.943</Score>
+				<Score et="828.0">Matty(0) lap=7 point=0 t=107.072 et=828.022</Score>
+				<Score et="832.1">Michael Schumacher(86) lap=6 point=2 t=96.894 et=832.121</Score>
+				<Score et="836.6">Mark Blundell(87) lap=6 point=2 t=92.802 et=836.565</Score>
+				<Score et="837.4">Damon Hill(84) lap=6 point=2 t=90.857 et=837.418</Score>
+				<Score et="842.1">Chops(5) lap=6 point=2 t=112.247 et=841.990</Score>
+				<Score et="844.8">Chris Plumridge(4) lap=7 point=1 t=38.723 et=844.798</Score>
+				<Score et="846.5">Ukyo Katayama(85) lap=6 point=2 t=93.013 et=846.490</Score>
+				<Incident et="846.7">Michael Andretti(83) reported contact (0.03) with Immovable</Incident>
+				<Score et="847.8">Rubens Barrichello(88) lap=7 point=0 t=115.449 et=847.749</Score>
+				<Incident et="851.6">Derek Warwick(90) reported contact (0.03) with Immovable</Incident>
+				<Score et="853.7">Erik Comas(89) lap=6 point=2 t=92.396 et=853.717</Score>
+				<Score et="853.8">Michael Schumacher(86) lap=7 point=0 t=118.513 et=853.739</Score>
+				<Score et="857.0">Mark Blundell(87) lap=7 point=0 t=113.188 et=856.951</Score>
+				<Score et="857.9">Damon Hill(84) lap=7 point=0 t=111.359 et=857.921</Score>
+				<Score et="861.8">Chops(5) lap=7 point=0 t=131.898 et=861.642</Score>
+				<Score et="866.7">Matty(0) lap=7 point=1 t=38.666 et=866.688</Score>
+				<Score et="868.4">Ukyo Katayama(85) lap=7 point=0 t=114.899 et=868.376</Score>
+				<Score et="869.2">Ayrton Senna(82) lap=7 point=1 t=41.193 et=869.137</Score>
+				<Incident et="870.5">Erik Comas(89) reported contact (0.84) with another vehicle Johnny Herbert(91)</Incident>
+				<Incident et="870.7">Erik Comas(89) reported contact (0.06) with another vehicle Johnny Herbert(91)</Incident>
+				<Score et="876.4">Peter(6) lap=4 point=2 t=176.864 et=876.333</Score>
+				<Incident et="881.1">Erik Comas(89) reported contact (0.26) with Immovable</Incident>
+				<Score et="886.1">Erik Comas(89) lap=7 point=0 t=124.785 et=886.107</Score>
+				<Score et="886.3">Johnny Herbert(91) lap=7 point=0 t=157.857 et=886.297</Score>
+				<Score et="887.7">Derek Warwick(90) lap=6 point=2 t=121.134 et=887.727</Score>
+				<Score et="891.0">Rubens Barrichello(88) lap=7 point=1 t=43.217 et=890.966</Score>
+				<Score et="891.7">Michael Andretti(83) lap=6 point=2 t=114.330 et=891.719</Score>
+				<Score et="892.5">Chris Plumridge(4) lap=7 point=2 t=86.412 et=892.487</Score>
+				<Score et="897.1">Peter(6) lap=5 point=0 t=197.568 et=897.036</Score>
+				<Score et="899.3">Michael Schumacher(86) lap=7 point=1 t=45.556 et=899.296</Score>
+				<Score et="899.5">Mark Blundell(87) lap=7 point=1 t=42.525 et=899.477</Score>
+				<Score et="900.2">Damon Hill(84) lap=7 point=1 t=42.273 et=900.193</Score>
+				<Score et="901.0">Chops(5) lap=7 point=1 t=39.333 et=900.975</Score>
+				<Score et="910.7">Ukyo Katayama(85) lap=7 point=1 t=42.299 et=910.675</Score>
+				<Score et="910.9">Derek Warwick(90) lap=7 point=0 t=144.275 et=910.867</Score>
+				<Score et="914.3">Chris Plumridge(4) lap=8 point=0 t=108.170 et=914.245</Score>
+				<Score et="915.3">Matty(0) lap=7 point=2 t=87.253 et=915.275</Score>
+				<Score et="920.9">Ayrton Senna(82) lap=7 point=2 t=92.953 et=920.896</Score>
+				<Incident et="926.1">Peter(6) reported contact (0.32) with Immovable</Incident>
+				<Incident et="926.2">Peter(6) reported contact (0.03) with Immovable</Incident>
+				<Score et="929.4">Michael Andretti(83) lap=7 point=0 t=151.985 et=929.374</Score>
+				<Score et="932.0">Erik Comas(89) lap=7 point=1 t=45.883 et=931.990</Score>
+				<Score et="934.6">Johnny Herbert(91) lap=7 point=1 t=48.242 et=934.539</Score>
+				<Score et="934.7">Matty(0) lap=8 point=0 t=106.693 et=934.715</Score>
+				<Score et="941.9">Ayrton Senna(82) lap=8 point=0 t=113.954 et=941.897</Score>
+				<Score et="944.8">Rubens Barrichello(88) lap=7 point=2 t=97.060 et=944.809</Score>
+				<Incident et="950.3">Ukyo Katayama(85) reported contact (0.13) with another vehicle Johnny Herbert(91)</Incident>
+				<Score et="952.3">Chops(5) lap=7 point=2 t=90.685 et=952.327</Score>
+				<Score et="953.8">Chris Plumridge(4) lap=8 point=1 t=39.498 et=953.744</Score>
+				<Incident et="958.0">Derek Warwick(90) reported contact (0.77) with another vehicle Matty(0)</Incident>
+				<Incident et="958.4">Matty(0) reported contact (1.00) with another vehicle Peter(6)</Incident>
+				<Incident et="958.4">Matty(0) reported contact (0.00) with another vehicle Peter(6)</Incident>
+				<Incident et="958.4">Peter(6) reported contact (0.42) with another vehicle Matty(0)</Incident>
+				<Incident et="958.4">Peter(6) reported contact (0.94) with another vehicle Matty(0)</Incident>
+				<Incident et="960.6">Derek Warwick(90) reported contact (1.00) with Immovable</Incident>
+				<Incident et="960.8">Derek Warwick(90) reported contact (0.55) with Immovable</Incident>
+				<Incident et="961.7">Erik Comas(89) reported contact (1.00) with Immovable</Incident>
+				<Score et="966.4">Rubens Barrichello(88) lap=8 point=0 t=118.652 et=966.401</Score>
+				<Incident et="966.5">Michael Andretti(83) reported contact (0.16) with Immovable</Incident>
+				<Incident et="968.5">Johnny Herbert(91) reported contact (0.97) with Immovable</Incident>
+				<Incident et="971.7">Erik Comas(89) reported contact (1.00) with another vehicle Chris Plumridge(4)</Incident>
+				<Incident et="971.8">Chris Plumridge(4) reported contact (0.87) with another vehicle Erik Comas(89)</Incident>
+				<Incident et="971.8">Chris Plumridge(4) reported contact (0.94) with another vehicle Erik Comas(89)</Incident>
+				<Incident et="971.8">Chris Plumridge(4) reported contact (0.10) with another vehicle Erik Comas(89)</Incident>
+				<Score et="972.0">Chops(5) lap=8 point=0 t=110.296 et=971.938</Score>
+				<Score et="973.6">Mark Blundell(87) lap=7 point=2 t=116.656 et=973.607</Score>
+				<Score et="973.7">Michael Schumacher(86) lap=7 point=2 t=119.971 et=973.711</Score>
+				<Score et="973.8">Damon Hill(84) lap=7 point=2 t=115.898 et=973.819</Score>
+				<Incident et="975.0">Derek Warwick(90) reported contact (1.00) with Immovable</Incident>
+				<Score et="975.7">Matty(0) lap=8 point=1 t=40.960 et=975.675</Score>
+				<Score et="983.5">Michael Andretti(83) lap=7 point=1 t=54.066 et=983.440</Score>
+				<Incident et="983.8">Matty(0) reported contact (1.00) with Immovable</Incident>
+				<Incident et="983.8">Matty(0) reported contact (0.45) with Immovable</Incident>
+				<Incident et="988.9">Ayrton Senna(82) reported contact (1.00) with another vehicle Peter(6)</Incident>
+				<Incident et="988.9">Peter(6) reported contact (1.00) with another vehicle Ayrton Senna(82)</Incident>
+				<Incident et="988.9">Peter(6) reported contact (0.52) with another vehicle Ayrton Senna(82)</Incident>
+				<Score et="995.0">Ukyo Katayama(85) lap=7 point=2 t=126.641 et=995.017</Score>
+				<Score et="995.7">Mark Blundell(87) lap=8 point=0 t=138.749 et=995.700</Score>
+				<Score et="996.2">Derek Warwick(90) lap=7 point=1 t=85.358 et=996.225</Score>
+				<Score et="996.6">Michael Schumacher(86) lap=8 point=0 t=142.800 et=996.540</Score>
+				<Score et="997.0">Damon Hill(84) lap=8 point=0 t=139.081 et=997.001</Score>
+				<Score et="999.3">Ayrton Senna(82) lap=8 point=1 t=57.417 et=999.314</Score>
+				<Score et="1001.6">Peter(6) lap=5 point=1 t=104.523 et=1001.559</Score>
+				<Incident et="1007.9">Peter(6) reported contact (0.74) with Immovable</Incident>
+				<Incident et="1007.9">Peter(6) reported contact (0.39) with Immovable</Incident>
+				<Incident et="1008.0">Peter(6) reported contact (0.71) with Immovable</Incident>
+				<Score et="1010.6">Chris Plumridge(4) lap=8 point=2 t=96.279 et=1010.524</Score>
+				<Incident et="1010.6">Peter(6) reported contact (1.00) with Immovable</Incident>
+				<Incident et="1010.7">Peter(6) reported contact (0.16) with Immovable</Incident>
+				<Score et="1011.1">Chops(5) lap=8 point=1 t=39.082 et=1011.020</Score>
+				<Score et="1013.1">Rubens Barrichello(88) lap=8 point=1 t=46.691 et=1013.092</Score>
+				<Score et="1018.3">Ukyo Katayama(85) lap=8 point=0 t=149.932 et=1018.308</Score>
+				<Score et="1018.8">Erik Comas(89) lap=7 point=2 t=132.642 et=1018.748</Score>
+				<Score et="1031.4">Chris Plumridge(4) lap=9 point=0 t=117.133 et=1031.378</Score>
+				<Incident et="1032.9">Damon Hill(84) reported contact (0.10) with another vehicle Michael Schumacher(86)</Incident>
+				<Score et="1033.8">Matty(0) lap=8 point=2 t=99.051 et=1033.766</Score>
+				<Incident et="1036.2">Damon Hill(84) reported contact (0.26) with another vehicle Michael Schumacher(86)</Incident>
+				<Score et="1041.0">Erik Comas(89) lap=8 point=0 t=154.920 et=1041.026</Score>
+				<Score et="1042.0">Mark Blundell(87) lap=8 point=1 t=46.273 et=1041.973</Score>
+				<Score et="1043.3">Michael Schumacher(86) lap=8 point=1 t=46.758 et=1043.297</Score>
+				<Score et="1043.4">Damon Hill(84) lap=8 point=1 t=46.370 et=1043.371</Score>
+				<Score et="1043.7">Michael Andretti(83) lap=7 point=2 t=114.325 et=1043.699</Score>
+				<Score et="1047.2">Derek Warwick(90) lap=7 point=2 t=136.322 et=1047.189</Score>
+				<Score et="1053.4">Matty(0) lap=9 point=0 t=118.633 et=1053.349</Score>
+				<Score et="1060.0">Ayrton Senna(82) lap=8 point=2 t=118.069 et=1059.966</Score>
+				<Score et="1064.5">Chops(5) lap=8 point=2 t=92.262 et=1064.200</Score>
+				<Score et="1066.9">Michael Andretti(83) lap=8 point=0 t=137.462 et=1066.837</Score>
+				<Score et="1067.5">Derek Warwick(90) lap=8 point=0 t=156.572 et=1067.439</Score>
+				<Incident et="1069.0">Damon Hill(84) reported contact (0.45) with another vehicle Mark Blundell(87)</Incident>
+				<Score et="1070.4">Chris Plumridge(4) lap=9 point=1 t=38.941 et=1070.319</Score>
+				<Incident et="1071.8">Michael Schumacher(86) reported contact (0.10) with Immovable</Incident>
+				<Incident et="1071.8">Michael Schumacher(86) reported contact (0.13) with Immovable</Incident>
+				<Incident et="1072.0">Mark Blundell(87) reported contact (0.58) with Immovable</Incident>
+				<Incident et="1072.4">Mark Blundell(87) reported contact (0.13) with Immovable</Incident>
+				<Incident et="1076.5">Ayrton Senna(82) reported contact (0.61) with another vehicle Chops(5)</Incident>
+				<Incident et="1076.5">Ayrton Senna(82) reported contact (0.45) with another vehicle Chops(5)</Incident>
+				<Incident et="1076.5">Ayrton Senna(82) reported contact (0.29) with another vehicle Chops(5)</Incident>
+				<Incident et="1076.5">Ayrton Senna(82) reported contact (0.10) with another vehicle Chops(5)</Incident>
+				<Incident et="1076.7">Chops(5) reported contact (0.55) with another vehicle Ayrton Senna(82)</Incident>
+				<Incident et="1076.7">Chops(5) reported contact (0.68) with another vehicle Ayrton Senna(82)</Incident>
+				<Incident et="1076.9">Chops(5) reported contact (0.06) with another vehicle Ayrton Senna(82)</Incident>
+				<Score et="1078.9">Rubens Barrichello(88) lap=8 point=2 t=112.493 et=1078.893</Score>
+				<Score et="1079.0">Ukyo Katayama(85) lap=8 point=1 t=60.689 et=1078.997</Score>
+				<Score et="1085.7">Erik Comas(89) lap=8 point=1 t=44.696 et=1085.723</Score>
+				<Score et="1088.4">Chops(5) lap=9 point=0 t=116.123 et=1088.061</Score>
+				<Score et="1091.3">Matty(0) lap=9 point=1 t=37.974 et=1091.322</Score>
+				<Incident et="1095.1">Michael Schumacher(86) reported contact (0.77) with another vehicle Chris Plumridge(4)</Incident>
+				<Incident et="1095.1">Michael Schumacher(86) reported contact (0.26) with another vehicle Chris Plumridge(4)</Incident>
+				<Incident et="1095.1">Chris Plumridge(4) reported contact (0.74) with another vehicle Michael Schumacher(86)</Incident>
+				<Score et="1102.2">Rubens Barrichello(88) lap=9 point=0 t=135.808 et=1102.209</Score>
+				<Score et="1104.2">Ayrton Senna(82) lap=9 point=0 t=162.321 et=1104.218</Score>
+				<Score et="1107.7">Derek Warwick(90) lap=8 point=1 t=40.245 et=1107.684</Score>
+				<Score et="1111.3">Damon Hill(84) lap=8 point=2 t=114.282 et=1111.283</Score>
+				<Score et="1125.5">Chris Plumridge(4) lap=9 point=2 t=94.108 et=1125.486</Score>
+				<Score et="1126.8">Michael Schumacher(86) lap=8 point=2 t=130.197 et=1126.737</Score>
+				<Score et="1127.8">Chops(5) lap=9 point=1 t=39.655 et=1127.716</Score>
+				<Score et="1129.3">Michael Andretti(83) lap=8 point=1 t=62.421 et=1129.258</Score>
+				<Score et="1130.3">Ukyo Katayama(85) lap=8 point=2 t=112.011 et=1130.319</Score>
+				<Score et="1134.1">Damon Hill(84) lap=9 point=0 t=137.073 et=1134.074</Score>
+				<Score et="1140.7">Matty(0) lap=9 point=2 t=87.292 et=1140.641</Score>
+				<Score et="1144.6">Mark Blundell(87) lap=8 point=2 t=148.876 et=1144.576</Score>
+				<Score et="1145.6">Chris Plumridge(4) lap=10 point=0 t=114.186 et=1145.563</Score>
+				<Score et="1151.5">Ukyo Katayama(85) lap=9 point=0 t=133.153 et=1151.461</Score>
+				<Score et="1159.6">Erik Comas(89) lap=8 point=2 t=118.597 et=1159.623</Score>
+				<Score et="1159.7">Derek Warwick(90) lap=8 point=2 t=92.286 et=1159.725</Score>
+				<Score et="1161.0">Matty(0) lap=10 point=0 t=107.628 et=1160.977</Score>
+				<Score et="1162.5">Rubens Barrichello(88) lap=9 point=1 t=60.264 et=1162.473</Score>
+				<Score et="1165.7">Ayrton Senna(82) lap=9 point=1 t=61.510 et=1165.728</Score>
+				<Score et="1169.9">Mark Blundell(87) lap=9 point=0 t=174.200 et=1169.900</Score>
+				<Incident et="1177.5">Michael Schumacher(86) reported contact (0.13) with another vehicle Derek Warwick(90)</Incident>
+				<Score et="1179.1">Chops(5) lap=9 point=2 t=90.947 et=1179.009</Score>
+				<Score et="1179.3">Michael Andretti(83) lap=8 point=2 t=112.445 et=1179.281</Score>
+				<Score et="1181.8">Derek Warwick(90) lap=9 point=0 t=114.296 et=1181.735</Score>
+				<Score et="1183.7">Chris Plumridge(4) lap=10 point=1 t=38.087 et=1183.650</Score>
+				<Score et="1191.4">Erik Comas(89) lap=9 point=0 t=150.375 et=1191.401</Score>
+				<Incident et="1194.2">Michael Schumacher(86) reported contact (0.16) with Immovable</Incident>
+				<Incident et="1194.4">Michael Schumacher(86) reported contact (0.48) with Immovable</Incident>
+				<Score et="1196.1">Ukyo Katayama(85) lap=9 point=1 t=44.581 et=1196.042</Score>
+				<Score et="1196.2">Damon Hill(84) lap=9 point=1 t=62.110 et=1196.184</Score>
+				<Score et="1199.3">Chops(5) lap=10 point=0 t=111.234 et=1199.295</Score>
+				<Score et="1199.5">Michael Andretti(83) lap=9 point=0 t=132.616 et=1199.453</Score>
+				<Score et="1213.2">Rubens Barrichello(88) lap=9 point=2 t=110.938 et=1213.147</Score>
+				<Score et="1215.1">Matty(0) lap=10 point=1 t=54.069 et=1215.046</Score>
+				<Score et="1215.3">Ayrton Senna(82) lap=9 point=2 t=111.061 et=1215.278</Score>
+				<Score et="1217.7">Michael Schumacher(86) lap=9 point=0 t=221.092 et=1217.631</Score>
+				<Score et="1222.1">Derek Warwick(90) lap=9 point=1 t=40.373 et=1222.108</Score>
+				<Incident et="1228.2">Michael Schumacher(86) reported contact (0.13) with Immovable</Incident>
+				<Score et="1230.8">Mark Blundell(87) lap=9 point=1 t=60.872 et=1230.772</Score>
+				<Score et="1232.6">Chris Plumridge(4) lap=10 point=2 t=87.006 et=1232.569</Score>
+				<Score et="1234.2">Rubens Barrichello(88) lap=10 point=0 t=131.925 et=1234.133</Score>
+				<Score et="1235.3">Ayrton Senna(82) lap=10 point=0 t=131.069 et=1235.287</Score>
+				<Score et="1239.0">Michael Andretti(83) lap=9 point=1 t=39.518 et=1238.970</Score>
+				<Score et="1243.6">Chops(5) lap=10 point=1 t=44.214 et=1243.508</Score>
+				<Score et="1249.3">Damon Hill(84) lap=9 point=2 t=115.194 et=1249.268</Score>
+				<Score et="1252.4">Ukyo Katayama(85) lap=9 point=2 t=100.872 et=1252.333</Score>
+				<Score et="1252.6">Erik Comas(89) lap=9 point=1 t=61.141 et=1252.542</Score>
+				<Score et="1252.9">Chris Plumridge(4) lap=11 point=0 t=107.287 et=1252.850</Score>
+				<Score et="1262.7">Matty(0) lap=10 point=2 t=101.726 et=1262.703</Score>
+				<Score et="1269.0">Damon Hill(84) lap=10 point=0 t=134.954 et=1269.028</Score>
+				<Score et="1273.2">Derek Warwick(90) lap=9 point=2 t=91.412 et=1273.146</Score>
+				<Score et="1273.8">Michael Schumacher(86) lap=9 point=1 t=56.130 et=1273.761</Score>
+				<Score et="1274.0">Ukyo Katayama(85) lap=10 point=0 t=122.473 et=1273.934</Score>
+				<Score et="1276.7">Ayrton Senna(82) lap=10 point=1 t=41.383 et=1276.670</Score>
+				<Score et="1278.4">Rubens Barrichello(88) lap=10 point=1 t=44.275 et=1278.408</Score>
+				<Score et="1281.2">Mark Blundell(87) lap=9 point=2 t=111.240 et=1281.140</Score>
+				<Score et="1281.7">Matty(0) lap=11 point=0 t=120.661 et=1281.638</Score>
+				<Score et="1289.1">Michael Andretti(83) lap=9 point=2 t=89.649 et=1289.102</Score>
+				<Score et="1291.6">Chris Plumridge(4) lap=11 point=1 t=38.651 et=1291.501</Score>
+				<Score et="1293.5">Derek Warwick(90) lap=10 point=0 t=111.699 et=1293.434</Score>
+				<Score et="1295.1">Chops(5) lap=10 point=2 t=95.702 et=1294.997</Score>
+				<Score et="1301.1">Mark Blundell(87) lap=10 point=0 t=131.225 et=1301.125</Score>
+				<Score et="1303.1">Erik Comas(89) lap=9 point=2 t=111.705 et=1303.107</Score>
+				<Score et="1308.2">Damon Hill(84) lap=10 point=1 t=39.121 et=1308.149</Score>
+				<Score et="1309.1">Michael Andretti(83) lap=10 point=0 t=109.585 et=1309.038</Score>
+				<Score et="1315.7">Chops(5) lap=11 point=0 t=116.203 et=1315.498</Score>
+				<Score et="1315.9">Ukyo Katayama(85) lap=10 point=1 t=41.910 et=1315.844</Score>
+				<Score et="1318.1">Matty(0) lap=11 point=1 t=36.460 et=1318.098</Score>
+				<Score et="1323.3">Erik Comas(89) lap=10 point=0 t=131.849 et=1323.250</Score>
+				<Score et="1328.5">Ayrton Senna(82) lap=10 point=2 t=93.144 et=1328.431</Score>
+				<Score et="1333.8">Derek Warwick(90) lap=10 point=1 t=40.364 et=1333.798</Score>
+				<Score et="1333.8">Rubens Barrichello(88) lap=10 point=2 t=99.689 et=1333.823</Score>
+				<Score et="1340.3">Chris Plumridge(4) lap=11 point=2 t=87.338 et=1340.188</Score>
+				<Score et="1340.3">Michael Schumacher(86) lap=9 point=2 t=122.660 et=1340.292</Score>
+				<Score et="1340.8">Mark Blundell(87) lap=10 point=1 t=39.676 et=1340.801</Score>
+				<Score et="1348.4">Ayrton Senna(82) lap=11 point=0 t=113.123 et=1348.410</Score>
+				<Score et="1348.6">Michael Andretti(83) lap=10 point=1 t=39.584 et=1348.622</Score>
+				<Score et="1355.0">Rubens Barrichello(88) lap=11 point=0 t=120.873 et=1355.006</Score>
+				<Score et="1358.1">Damon Hill(84) lap=10 point=2 t=89.020 et=1358.047</Score>
+				<Score et="1361.4">Chris Plumridge(4) lap=12 point=0 t=108.484 et=1361.334</Score>
+				<Score et="1363.4">Erik Comas(89) lap=10 point=1 t=40.097 et=1363.347</Score>
+				<Score et="1363.7">Michael Schumacher(86) lap=10 point=0 t=146.028 et=1363.660</Score>
+				<Score et="1365.3">Matty(0) lap=11 point=2 t=83.611 et=1365.250</Score>
+				<Score et="1367.0">Ukyo Katayama(85) lap=10 point=2 t=93.069 et=1367.002</Score>
+				<Score et="1372.8">Chops(5) lap=11 point=1 t=57.196 et=1372.694</Score>
+				<Score et="1378.3">Damon Hill(84) lap=11 point=0 t=109.255 et=1378.283</Score>
+				<Score et="1384.1">Matty(0) lap=12 point=0 t=102.483 et=1384.121</Score>
+				<Score et="1386.5">Derek Warwick(90) lap=10 point=2 t=93.089 et=1386.523</Score>
+				<Score et="1387.2">Ukyo Katayama(85) lap=11 point=0 t=113.270 et=1387.204</Score>
+				<Score et="1388.7">Ayrton Senna(82) lap=11 point=1 t=40.279 et=1388.689</Score>
+				<Score et="1390.9">Mark Blundell(87) lap=10 point=2 t=89.800 et=1390.925</Score>
+				<Score et="1394.4">Rubens Barrichello(88) lap=11 point=1 t=39.342 et=1394.348</Score>
+				<Score et="1398.9">Michael Andretti(83) lap=10 point=2 t=89.840 et=1398.878</Score>
+				<Score et="1399.1">Chris Plumridge(4) lap=12 point=1 t=37.741 et=1399.075</Score>
+				<Score et="1406.8">Derek Warwick(90) lap=11 point=0 t=113.371 et=1406.806</Score>
+				<Score et="1408.5">Michael Schumacher(86) lap=10 point=1 t=44.864 et=1408.524</Score>
+				<Score et="1410.8">Mark Blundell(87) lap=11 point=0 t=109.683 et=1410.808</Score>
+				<Score et="1414.1">Erik Comas(89) lap=10 point=2 t=90.785 et=1414.035</Score>
+				<Score et="1417.5">Damon Hill(84) lap=11 point=1 t=39.193 et=1417.475</Score>
+				<Score et="1419.0">Michael Andretti(83) lap=11 point=0 t=109.920 et=1418.958</Score>
+				<Score et="1421.4">Matty(0) lap=12 point=1 t=37.263 et=1421.385</Score>
+				<Score et="1424.9">Chops(5) lap=11 point=2 t=109.287 et=1424.785</Score>
+				<Score et="1427.4">Ukyo Katayama(85) lap=11 point=1 t=40.156 et=1427.360</Score>
+				<Score et="1434.2">Erik Comas(89) lap=11 point=0 t=110.966 et=1434.217</Score>
+				<Score et="1438.8">Ayrton Senna(82) lap=11 point=2 t=90.357 et=1438.767</Score>
+				<Score et="1444.2">Chops(5) lap=12 point=0 t=128.584 et=1444.082</Score>
+				<Score et="1444.3">Rubens Barrichello(88) lap=11 point=2 t=89.259 et=1444.265</Score>
+				<Score et="1447.2">Derek Warwick(90) lap=11 point=1 t=40.343 et=1447.149</Score>
+				<Score et="1449.0">Chris Plumridge(4) lap=12 point=2 t=87.548 et=1448.881</Score>
+				<Score et="1450.6">Mark Blundell(87) lap=11 point=1 t=39.818 et=1450.626</Score>
+				<Score et="1458.6">Michael Andretti(83) lap=11 point=1 t=39.639 et=1458.597</Score>
+				<Score et="1458.7">Ayrton Senna(82) lap=12 point=0 t=110.225 et=1458.635</Score>
+				<Score et="1464.1">Rubens Barrichello(88) lap=12 point=0 t=109.104 et=1464.110</Score>
+				<Score et="1469.4">Matty(0) lap=12 point=2 t=85.295 et=1469.416</Score>
+				<Score et="1469.6">Michael Schumacher(86) lap=10 point=2 t=105.881 et=1469.541</Score>
+				<Score et="1469.7">Damon Hill(84) lap=11 point=2 t=91.365 et=1469.648</Score>
+				<Score et="1469.7">Chris Plumridge(4) lap=13 point=0 t=108.275 et=1469.609</Score>
+				<Score et="1474.4">Erik Comas(89) lap=11 point=1 t=40.158 et=1474.375</Score>
+				<Score et="1478.2">Ukyo Katayama(85) lap=11 point=2 t=90.974 et=1478.178</Score>
+				<Incident et="1481.1">Damon Hill(84) reported contact (0.16) with another vehicle Michael Schumacher(86)</Incident>
+				<Score et="1482.2">Chops(5) lap=12 point=1 t=38.005 et=1482.087</Score>
+				<Incident et="1483.1">Michael Schumacher(86) reported contact (0.84) with Immovable</Incident>
+				<Incident et="1483.3">Michael Schumacher(86) reported contact (0.84) with Immovable</Incident>
+				<Incident et="1484.6">Damon Hill(84) reported contact (0.29) with another vehicle Michael Schumacher(86)</Incident>
+				<Incident et="1484.7">Damon Hill(84) reported contact (0.23) with another vehicle Michael Schumacher(86)</Incident>
+				<Incident et="1484.8">Michael Schumacher(86) reported contact (0.06) with Immovable</Incident>
+				<Incident et="1485.1">Michael Schumacher(86) reported contact (0.03) with Immovable</Incident>
+				<Incident et="1485.5">Michael Schumacher(86) reported contact (0.03) with another vehicle Damon Hill(84)</Incident>
+				<Score et="1488.6">Matty(0) lap=13 point=0 t=104.477 et=1488.599</Score>
+				<Incident et="1493.4">Damon Hill(84) reported contact (0.26) with another vehicle Michael Schumacher(86)</Incident>
+				<Incident et="1493.4">Michael Schumacher(86) reported contact (0.19) with another vehicle Damon Hill(84)</Incident>
+				<Score et="1498.1">Ayrton Senna(82) lap=12 point=1 t=39.408 et=1498.043</Score>
+				<Score et="1498.9">Derek Warwick(90) lap=11 point=2 t=92.118 et=1498.924</Score>
+				<Score et="1499.4">Ukyo Katayama(85) lap=12 point=0 t=112.213 et=1499.417</Score>
+				<Incident et="1499.9">Damon Hill(84) reported contact (1.00) with Immovable</Incident>
+				<Score et="1501.0">Mark Blundell(87) lap=11 point=2 t=90.132 et=1500.940</Score>
+				<Score et="1503.5">Rubens Barrichello(88) lap=12 point=1 t=39.332 et=1503.442</Score>
+				<Score et="1508.1">Chris Plumridge(4) lap=13 point=1 t=38.450 et=1508.059</Score>
+				<Score et="1509.0">Michael Andretti(83) lap=11 point=2 t=89.995 et=1508.953</Score>
+				<Score et="1509.7">Michael Schumacher(86) lap=11 point=0 t=146.048 et=1509.708</Score>
+				<Score et="1520.4">Damon Hill(84) lap=12 point=0 t=142.118 et=1520.401</Score>
+				<Score et="1520.6">Derek Warwick(90) lap=12 point=0 t=113.818 et=1520.624</Score>
+				<Score et="1521.1">Mark Blundell(87) lap=12 point=0 t=110.240 et=1521.048</Score>
+				<Incident et="1523.3">Chris Plumridge(4) reported contact (0.03) with another vehicle Rubens Barrichello(88)</Incident>
+				<Score et="1525.2">Erik Comas(89) lap=11 point=2 t=90.933 et=1525.150</Score>
+				<Score et="1528.9">Michael Andretti(83) lap=12 point=0 t=109.951 et=1528.910</Score>
+				<Score et="1529.1">Matty(0) lap=13 point=1 t=40.498 et=1529.096</Score>
+				<Score et="1531.4">Chops(5) lap=12 point=2 t=87.236 et=1531.319</Score>
+				<Score et="1544.3">Ukyo Katayama(85) lap=12 point=1 t=44.863 et=1544.280</Score>
+				<Score et="1545.4">Erik Comas(89) lap=12 point=0 t=111.171 et=1545.388</Score>
+				<Score et="1548.1">Ayrton Senna(82) lap=12 point=2 t=89.489 et=1548.124</Score>
+				<Score et="1551.2">Chops(5) lap=13 point=0 t=107.067 et=1551.149</Score>
+				<Score et="1557.8">Chris Plumridge(4) lap=13 point=2 t=88.115 et=1557.724</Score>
+				<Score et="1558.4">Rubens Barrichello(88) lap=12 point=2 t=94.262 et=1558.373</Score>
+				<Score et="1564.4">Damon Hill(84) lap=12 point=1 t=43.961 et=1564.361</Score>
+				<Score et="1564.5">Derek Warwick(90) lap=12 point=1 t=43.874 et=1564.497</Score>
+				<Score et="1564.7">Mark Blundell(87) lap=12 point=1 t=43.620 et=1564.668</Score>
+				<Score et="1567.9">Ayrton Senna(82) lap=13 point=0 t=109.289 et=1567.924</Score>
+				<Score et="1568.6">Michael Andretti(83) lap=12 point=1 t=39.676 et=1568.586</Score>
+				<Incident et="1572.1">Peter(6) reported contact (0.48) with Immovable</Incident>
+				<Incident et="1572.3">Peter(6) reported contact (0.71) with Immovable</Incident>
+				<Score et="1574.1">Michael Schumacher(86) lap=11 point=1 t=64.382 et=1574.090</Score>
+				<Incident et="1575.0">Peter(6) reported contact (0.06) with Immovable</Incident>
+				<Incident et="1575.1">Peter(6) reported contact (0.13) with Immovable</Incident>
+				<Score et="1576.8">Matty(0) lap=13 point=2 t=88.159 et=1576.757</Score>
+				<Incident et="1578.2">Chops(5) reported contact (0.90) with Immovable</Incident>
+				<Incident et="1578.2">Chops(5) reported contact (0.55) with Immovable</Incident>
+				<Score et="1578.3">Chris Plumridge(4) lap=14 point=0 t=108.680 et=1578.289</Score>
+				<Score et="1578.7">Rubens Barrichello(88) lap=13 point=0 t=114.528 et=1578.638</Score>
+				<Score et="1585.6">Erik Comas(89) lap=12 point=1 t=40.203 et=1585.591</Score>
+				<Incident et="1593.0">Mark Blundell(87) reported contact (0.19) with Immovable</Incident>
+				<Score et="1595.8">Matty(0) lap=14 point=0 t=107.227 et=1595.826</Score>
+				<Score et="1596.6">Ukyo Katayama(85) lap=12 point=2 t=97.130 et=1596.547</Score>
+				<Score et="1598.4">Chops(5) lap=13 point=1 t=47.108 et=1598.257</Score>
+				<Score et="1607.3">Ayrton Senna(82) lap=13 point=1 t=39.390 et=1607.314</Score>
+				<Incident et="1610.5">Peter(6) reported contact (0.06) with Immovable</Incident>
+				<Incident et="1610.6">Peter(6) reported contact (0.32) with Immovable</Incident>
+				<Incident et="1614.2">Peter(6) reported contact (1.00) with Immovable</Incident>
+				<Incident et="1614.2">Peter(6) reported contact (1.00) with Immovable</Incident>
+				<Incident et="1614.3">Peter(6) reported contact (1.00) with Immovable</Incident>
+				<Incident et="1615.5">Peter(6) reported contact (0.03) with Immovable</Incident>
+				<Score et="1616.1">Damon Hill(84) lap=12 point=2 t=95.719 et=1616.120</Score>
+				<Score et="1616.6">Chris Plumridge(4) lap=14 point=1 t=38.236 et=1616.525</Score>
+				<Score et="1616.8">Ukyo Katayama(85) lap=13 point=0 t=117.354 et=1616.772</Score>
+				<Score et="1617.7">Derek Warwick(90) lap=12 point=2 t=97.091 et=1617.714</Score>
+				<Score et="1618.8">Rubens Barrichello(88) lap=13 point=1 t=40.170 et=1618.808</Score>
+				<Score et="1622.0">Michael Andretti(83) lap=12 point=2 t=93.069 et=1621.979</Score>
+				<Score et="1625.3">Michael Schumacher(86) lap=11 point=2 t=115.540 et=1625.249</Score>
+				<Score et="1631.2">Mark Blundell(87) lap=12 point=2 t=110.147 et=1631.196</Score>
+				<Score et="1636.4">Erik Comas(89) lap=12 point=2 t=91.021 et=1636.409</Score>
+				<Score et="1636.6">Damon Hill(84) lap=13 point=0 t=116.198 et=1636.598</Score>
+				<Score et="1638.2">Derek Warwick(90) lap=13 point=0 t=117.511 et=1638.135</Score>
+				<Score et="1639.0">Matty(0) lap=14 point=1 t=43.143 et=1638.969</Score>
+				<Score et="1642.0">Michael Andretti(83) lap=13 point=0 t=113.024 et=1641.933</Score>
+				<Score et="1645.4">Michael Schumacher(86) lap=12 point=0 t=135.666 et=1645.374</Score>
+				<Score et="1651.1">Mark Blundell(87) lap=13 point=0 t=130.054 et=1651.102</Score>
+				<Score et="1654.4">Chops(5) lap=13 point=2 t=103.196 et=1654.345</Score>
+				<Score et="1656.7">Erik Comas(89) lap=13 point=0 t=111.310 et=1656.698</Score>
+				<Score et="1656.9">Ukyo Katayama(85) lap=13 point=1 t=40.122 et=1656.894</Score>
+				<Score et="1657.9">Ayrton Senna(82) lap=13 point=2 t=89.982 et=1657.906</Score>
+				<Score et="1664.3">Chris Plumridge(4) lap=14 point=2 t=85.895 et=1664.184</Score>
+				<Score et="1671.3">Rubens Barrichello(88) lap=13 point=2 t=92.667 et=1671.305</Score>
+				<Score et="1673.9">Chops(5) lap=14 point=0 t=122.673 et=1673.822</Score>
+				<Score et="1676.1">Damon Hill(84) lap=13 point=1 t=39.438 et=1676.036</Score>
+				<Score et="1677.7">Ayrton Senna(82) lap=14 point=0 t=109.750 et=1677.674</Score>
+				<Score et="1679.2">Derek Warwick(90) lap=13 point=1 t=41.078 et=1679.213</Score>
+				<Score et="1681.6">Michael Andretti(83) lap=13 point=1 t=39.676 et=1681.609</Score>
+				<Score et="1684.3">Chris Plumridge(4) lap=15 point=0 t=105.987 et=1684.276</Score>
+				<Score et="1684.4">Michael Schumacher(86) lap=12 point=1 t=39.044 et=1684.418</Score>
+				<Score et="1686.4">Matty(0) lap=14 point=2 t=90.515 et=1686.341</Score>
+				<Score et="1691.0">Mark Blundell(87) lap=13 point=1 t=39.844 et=1690.947</Score>
+				<Score et="1693.0">Rubens Barrichello(88) lap=14 point=0 t=114.347 et=1692.985</Score>
+				<Score et="1696.9">Erik Comas(89) lap=13 point=1 t=40.227 et=1696.925</Score>
+				<Score et="1705.5">Matty(0) lap=15 point=0 t=109.606 et=1705.431</Score>
+				<Score et="1707.8">Ukyo Katayama(85) lap=13 point=2 t=90.992 et=1707.764</Score>
+				<Score et="1714.1">Chops(5) lap=14 point=1 t=40.204 et=1714.026</Score>
+				<Score et="1717.1">Ayrton Senna(82) lap=14 point=1 t=39.376 et=1717.049</Score>
+				<Score et="1722.0">Chris Plumridge(4) lap=15 point=1 t=37.695 et=1721.971</Score>
+				<Score et="1726.3">Damon Hill(84) lap=13 point=2 t=89.642 et=1726.240</Score>
+				<Score et="1728.7">Ukyo Katayama(85) lap=14 point=0 t=111.878 et=1728.650</Score>
+				<Score et="1734.4">Michael Andretti(83) lap=13 point=2 t=92.493 et=1734.427</Score>
+				<Score et="1735.4">Rubens Barrichello(88) lap=14 point=1 t=42.359 et=1735.344</Score>
+				<Score et="1735.5">Derek Warwick(90) lap=13 point=2 t=97.377 et=1735.512</Score>
+				<Score et="1735.6">Michael Schumacher(86) lap=12 point=2 t=90.239 et=1735.613</Score>
+				<Score et="1741.3">Mark Blundell(87) lap=13 point=2 t=90.199 et=1741.301</Score>
+				<Score et="1743.0">Matty(0) lap=15 point=1 t=37.514 et=1742.945</Score>
+				<Score et="1746.6">Damon Hill(84) lap=14 point=0 t=109.967 et=1746.566</Score>
+				<Score et="1747.8">Erik Comas(89) lap=13 point=2 t=91.088 et=1747.786</Score>
+				<Score et="1754.6">Michael Andretti(83) lap=14 point=0 t=112.687 et=1754.620</Score>
+				<Score et="1756.2">Michael Schumacher(86) lap=13 point=0 t=110.816 et=1756.190</Score>
+				<Score et="1757.5">Derek Warwick(90) lap=14 point=0 t=119.359 et=1757.494</Score>
+				<Score et="1761.4">Mark Blundell(87) lap=14 point=0 t=110.245 et=1761.347</Score>
+				<Score et="1765.2">Chops(5) lap=14 point=2 t=91.278 et=1765.100</Score>
+				<Score et="1767.1">Ayrton Senna(82) lap=14 point=2 t=89.399 et=1767.073</Score>
+				<Score et="1768.0">Erik Comas(89) lap=14 point=0 t=111.307 et=1768.006</Score>
+				<Score et="1769.6">Chris Plumridge(4) lap=15 point=2 t=85.286 et=1769.562</Score>
+				<Score et="1772.3">Ukyo Katayama(85) lap=14 point=1 t=43.666 et=1772.316</Score>
+				<Score et="1785.0">Chops(5) lap=15 point=0 t=111.001 et=1784.823</Score>
+				<Score et="1786.0">Damon Hill(84) lap=14 point=1 t=39.393 et=1785.959</Score>
+				<Score et="1786.2">Rubens Barrichello(88) lap=14 point=2 t=93.214 et=1786.199</Score>
+				<Score et="1787.4">Ayrton Senna(82) lap=15 point=0 t=109.702 et=1787.376</Score>
+				<Score et="1790.0">Matty(0) lap=15 point=2 t=84.509 et=1789.941</Score>
+				<Score et="1790.7">Checkered for Chris Plumridge, laps=16/16, endET=1790.668701/2201.419922, crossedAfterTime=0</Score>
+				<Score et="1790.7">Chris Plumridge(4) lap=16 point=0 t=106.393 et=1790.669</Score>
+				<Score et="1794.4">Michael Andretti(83) lap=14 point=1 t=39.710 et=1794.330</Score>
+				<Score et="1795.3">Michael Schumacher(86) lap=13 point=1 t=39.073 et=1795.263</Score>
+				<Score et="1801.6">Derek Warwick(90) lap=14 point=1 t=44.096 et=1801.590</Score>
+				<Score et="1801.7">Mark Blundell(87) lap=14 point=1 t=40.365 et=1801.712</Score>
+				<Score et="1806.0">Rubens Barrichello(88) lap=15 point=0 t=113.000 et=1805.986</Score>
+				<Score et="1808.2">Erik Comas(89) lap=14 point=1 t=40.211 et=1808.217</Score>
+				<Score et="1808.4">Matty(0) lap=16 point=0 t=102.922 et=1808.353</Score>
+				<Score et="1824.1">Chops(5) lap=15 point=1 t=39.174 et=1823.997</Score>
+				<Score et="1826.6">Ayrton Senna(82) lap=15 point=1 t=39.224 et=1826.599</Score>
+				<Score et="1828.4">Ukyo Katayama(85) lap=14 point=2 t=99.684 et=1828.334</Score>
+				<Score et="1836.6">Damon Hill(84) lap=14 point=2 t=90.009 et=1836.575</Score>
+				<Score et="1844.8">Michael Andretti(83) lap=14 point=2 t=90.109 et=1844.729</Score>
+				<Score et="1845.1">Michael Schumacher(86) lap=13 point=2 t=88.924 et=1845.114</Score>
+				<Score et="1850.9">Ukyo Katayama(85) lap=15 point=0 t=122.213 et=1850.863</Score>
+				<Score et="1852.8">Mark Blundell(87) lap=14 point=2 t=91.447 et=1852.794</Score>
+				<Score et="1857.1">Damon Hill(84) lap=15 point=0 t=110.474 et=1857.040</Score>
+				<Score et="1858.3">Derek Warwick(90) lap=14 point=2 t=100.818 et=1858.312</Score>
+				<Score et="1859.0">Erik Comas(89) lap=14 point=2 t=90.998 et=1859.004</Score>
+				<Incident et="1859.1">Matty(0) reported contact (1.00) with Immovable</Incident>
+				<Incident et="1859.2">Matty(0) reported contact (0.06) with Immovable</Incident>
+				<Score et="1864.9">Michael Andretti(83) lap=15 point=0 t=110.248 et=1864.868</Score>
+				<Score et="1865.2">Michael Schumacher(86) lap=14 point=0 t=109.012 et=1865.203</Score>
+				<Incident et="1868.8">Rubens Barrichello(88) reported contact (0.84) with another vehicle Chris Plumridge(4)</Incident>
+				<Incident et="1868.8">Chris Plumridge(4) reported contact (0.84) with another vehicle Rubens Barrichello(88)</Incident>
+				<Incident et="1868.8">Chris Plumridge(4) reported contact (0.03) with another vehicle Rubens Barrichello(88)</Incident>
+				<Incident et="1870.5">Chris Plumridge(4) reported contact (0.10) with Immovable</Incident>
+				<Incident et="1872.5">Erik Comas(89) reported contact (0.03) with another vehicle Derek Warwick(90)</Incident>
+				<Score et="1872.8">Mark Blundell(87) lap=15 point=0 t=111.413 et=1872.760</Score>
+				<Score et="1874.1">Chops(5) lap=15 point=2 t=89.202 et=1874.024</Score>
+				<Score et="1876.4">Ayrton Senna(82) lap=15 point=2 t=88.994 et=1876.370</Score>
+				<Score et="1882.2">Erik Comas(89) lap=15 point=0 t=114.217 et=1882.223</Score>
+				<Incident et="1887.5">Peter(6) reported contact (1.00) with Immovable</Incident>
+				<Incident et="1887.6">Peter(6) reported contact (0.71) with Immovable</Incident>
+				<Score et="1894.1">Chops(5) lap=16 point=0 t=109.228 et=1894.051</Score>
+				<Score et="1896.2">Ayrton Senna(82) lap=16 point=0 t=108.774 et=1896.149</Score>
+				<Incident et="1899.9">Ayrton Senna(82) reported contact (1.00) with another vehicle Chops(5)</Incident>
+				<Incident et="1899.9">Ayrton Senna(82) reported contact (1.00) with another vehicle Chops(5)</Incident>
+				<Incident et="1899.9">Ayrton Senna(82) reported contact (0.61) with another vehicle Chops(5)</Incident>
+				<Incident et="1899.9">Ayrton Senna(82) reported contact (0.52) with another vehicle Chops(5)</Incident>
+				<Incident et="1899.9">Chops(5) reported contact (1.00) with another vehicle Ayrton Senna(82)</Incident>
+				<Incident et="1899.9">Chops(5) reported contact (1.00) with another vehicle Ayrton Senna(82)</Incident>
+				<Incident et="1900.0">Ayrton Senna(82) reported contact (0.23) with another vehicle Chops(5)</Incident>
+				<Incident et="1900.0">Chops(5) reported contact (0.68) with another vehicle Ayrton Senna(82)</Incident>
+				<Incident et="1900.0">Chops(5) reported contact (1.00) with another vehicle Ayrton Senna(82)</Incident>
+				<Incident et="1900.0">Chops(5) reported contact (0.42) with another vehicle Ayrton Senna(82)</Incident>
+				<Incident et="1910.3">Rubens Barrichello(88) reported contact (1.00) with another vehicle Derek Warwick(90)</Incident>
+				<Incident et="1910.6">Rubens Barrichello(88) reported contact (0.03) with another vehicle Derek Warwick(90)</Incident>
+				<Incident et="1922.8">Michael Andretti(83) reported contact (0.06) with another vehicle Michael Schumacher(86)</Incident>
+				<Score et="1924.6">Derek Warwick(90) lap=15 point=0 t=167.129 et=1924.623</Score>
+				<Incident et="1934.9">Michael Schumacher(86) reported contact (0.13) with Immovable</Incident>
+				<Incident et="1935.1">Michael Schumacher(86) reported contact (0.19) with Immovable</Incident>
+				<Incident et="1941.7">Damon Hill(84) reported contact (0.39) with Immovable</Incident>
+				<Sent et="2003.5">Peter has left the game but vehicle has been stored in the garage</Sent>
+			</Stream>
+			<MostLapsCompleted>16</MostLapsCompleted>
+			<Driver>
+				<Name>Matty</Name>
+				<Connected>1</Connected>
+				<VehFile>JHERBERT_12.VEH</VehFile>
+				<UpgradeCode>00000000 00000000</UpgradeCode>
+				<VehName>#12 Johnny Herbert</VehName>
+				<CarType>F1 1993</CarType>
+				<CarClass>F1 1993</CarClass>
+				<CarNumber>12</CarNumber>
+				<TeamName>Lotus 107B</TeamName>
+				<isPlayer>1</isPlayer>
+				<GridPos>1</GridPos>
+				<Position>2</Position>
+				<ClassGridPos>1</ClassGridPos>
+				<ClassPosition>2</ClassPosition>
+				<Points>6</Points>
+				<ClassPoints>6</ClassPoints>
+				<LapRankIncludingDiscos>1</LapRankIncludingDiscos>
+				<Lap num="1" p="8" et="41.4199" s1="41.1517" s2="53.3936" s3="27.7294" fuel="0.337" pit="1">122.2747</Lap>
+				<Lap num="2" p="13" et="163.6947" s1="54.6660" s2="47.9458" s3="19.1359" fuel="0.322">121.7477</Lap>
+				<Lap num="3" p="11" et="285.4424" s1="38.0687" s2="54.0955" s3="19.1113" fuel="0.306">111.2754</Lap>
+				<Lap num="4" p="5" et="396.7178" s1="39.9299" s2="50.9443" s3="19.8818" fuel="0.290">110.7561</Lap>
+				<Lap num="5" p="3" et="507.4738" s1="38.5868" s2="49.7394" s3="19.5881" fuel="0.275">107.9144</Lap>
+				<Lap num="6" p="3" et="615.3882" s1="37.5460" s2="48.5079" s3="19.5076" fuel="0.259">105.5615</Lap>
+				<Lap num="7" p="3" et="720.9497" s1="38.3696" s2="47.6118" s3="21.0910" fuel="0.243">107.0723</Lap>
+				<Lap num="8" p="2" et="828.0220" s1="38.6659" s2="48.5870" s3="19.4401" fuel="0.231">106.6931</Lap>
+				<Lap num="9" p="2" et="934.7151" s1="40.9599" s2="58.0909" s3="19.5826" fuel="0.216">118.6334</Lap>
+				<Lap num="10" p="2" et="1053.3485" s1="37.9735" s2="49.3185" s3="20.3362" fuel="0.200" pit="1">107.6282</Lap>
+				<Lap num="11" p="2" et="1160.9767" s1="54.0692" s2="47.6567" s3="18.9355" fuel="0.180">120.6615</Lap>
+				<Lap num="12" p="2" et="1281.6382" s1="36.4600" s2="47.1514" s3="18.8718" fuel="0.165">102.4832</Lap>
+				<Lap num="13" p="2" et="1384.1213" s1="37.2633" s2="48.0314" s3="19.1825" fuel="0.149">104.4772</Lap>
+				<Lap num="14" p="2" et="1488.5985" s1="40.4979" s2="47.6609" s3="19.0682" fuel="0.133">107.2271</Lap>
+				<Lap num="15" p="2" et="1595.8256" s1="43.1429" s2="47.3723" s3="19.0903" fuel="0.118">109.6056</Lap>
+				<Lap num="16" p="2" et="1705.4312" s1="37.5142" s2="46.9952" s3="18.4121" fuel="0.102">102.9215</Lap>
+				<BestLapTime>102.4832</BestLapTime>
+				<FinishTime>1766.9327</FinishTime>
+				<Laps>16</Laps>
+				<Pitstops>1</Pitstops>
+				<FinishStatus>Finished Normally</FinishStatus>
+				<ControlAndAids startLap="1" endLap="16">PlayerControl,TC=2,Clutch,Invulnerable,AutoBlip</ControlAndAids>
+			</Driver>
+			<Driver>
+				<Name>Chris Plumridge</Name>
+				<Connected>1</Connected>
+				<VehFile>APROST_02.VEH</VehFile>
+				<UpgradeCode>00000000 00000000</UpgradeCode>
+				<VehName>#02 Alain Prost</VehName>
+				<CarType>F1 1993</CarType>
+				<CarClass>F1 1993</CarClass>
+				<CarNumber>2</CarNumber>
+				<TeamName>Williams FW15C</TeamName>
+				<isPlayer>1</isPlayer>
+				<GridPos>2</GridPos>
+				<Position>1</Position>
+				<ClassGridPos>2</ClassGridPos>
+				<ClassPosition>1</ClassPosition>
+				<Points>10</Points>
+				<ClassPoints>10</ClassPoints>
+				<LapRankIncludingDiscos>2</LapRankIncludingDiscos>
+				<Lap num="1" p="3" et="41.4199" s1="46.3921" s2="49.9475" s3="20.9676" fuel="0.365">117.3072</Lap>
+				<Lap num="2" p="2" et="158.7272" s1="38.7986" s2="51.2430" s3="21.5970" fuel="0.349">111.6386</Lap>
+				<Lap num="3" p="1" et="270.3658" s1="38.6695" s2="47.5721" s3="19.8763" fuel="0.333">106.1180</Lap>
+				<Lap num="4" p="1" et="376.4837" s1="38.2057" s2="47.5197" s3="20.6851" fuel="0.318">106.4105</Lap>
+				<Lap num="5" p="1" et="482.8942" s1="39.4070" s2="47.9385" s3="20.8340" fuel="0.302">108.1796</Lap>
+				<Lap num="6" p="1" et="591.0738" s1="38.3684" s2="48.2294" s3="20.8015" fuel="0.286">107.3994</Lap>
+				<Lap num="7" p="1" et="698.4731" s1="38.6880" s2="48.8713" s3="20.0424" fuel="0.271">107.6017</Lap>
+				<Lap num="8" p="1" et="806.0749" s1="38.7230" s2="47.6886" s3="21.7587" fuel="0.255">108.1703</Lap>
+				<Lap num="9" p="1" et="914.2452" s1="39.4984" s2="56.7802" s3="20.8539" fuel="0.239">117.1325</Lap>
+				<Lap num="10" p="1" et="1031.3777" s1="38.9413" s2="55.1667" s3="20.0775" fuel="0.224">114.1855</Lap>
+				<Lap num="11" p="1" et="1145.5632" s1="38.0872" s2="48.9185" s3="20.2811" fuel="0.208">107.2867</Lap>
+				<Lap num="12" p="1" et="1252.8500" s1="38.6514" s2="48.6869" s3="21.1456" fuel="0.192">108.4839</Lap>
+				<Lap num="13" p="1" et="1361.3339" s1="37.7413" s2="49.8063" s3="20.7275" fuel="0.180">108.2751</Lap>
+				<Lap num="14" p="1" et="1469.6090" s1="38.4502" s2="49.6646" s3="20.5653" fuel="0.165">108.6801</Lap>
+				<Lap num="15" p="1" et="1578.2891" s1="38.2356" s2="47.6591" s3="20.0924" fuel="0.149">105.9871</Lap>
+				<Lap num="16" p="1" et="1684.2761" s1="37.6952" s2="47.5908" s3="21.1066" fuel="0.133">106.3926</Lap>
+				<BestLapTime>105.9871</BestLapTime>
+				<FinishTime>1749.2488</FinishTime>
+				<Laps>16</Laps>
+				<Pitstops>0</Pitstops>
+				<FinishStatus>Finished Normally</FinishStatus>
+				<ControlAndAids startLap="1" endLap="16">PlayerControl,TC=2,Clutch,AutoBlip</ControlAndAids>
+			</Driver>
+			<Driver>
+				<Name>Chops</Name>
+				<Connected>1</Connected>
+				<VehFile>DHILL_00.VEH</VehFile>
+				<UpgradeCode>00000000 00000000</UpgradeCode>
+				<VehName>#00 Damon Hill</VehName>
+				<CarType>F1 1993</CarType>
+				<CarClass>F1 1993</CarClass>
+				<CarNumber>0</CarNumber>
+				<TeamName>Williams FW15C</TeamName>
+				<isPlayer>1</isPlayer>
+				<GridPos>9</GridPos>
+				<Position>3</Position>
+				<ClassGridPos>9</ClassGridPos>
+				<ClassPosition>3</ClassPosition>
+				<Points>4</Points>
+				<ClassPoints>4</ClassPoints>
+				<LapRankIncludingDiscos>3</LapRankIncludingDiscos>
+				<Lap num="1" p="7" et="41.4199" s1="49.8403" s2="51.2632" s3="20.1376" fuel="0.337">121.2411</Lap>
+				<Lap num="2" p="8" et="162.6610" s1="43.3046" s2="51.7910" s3="20.3008" fuel="0.322">115.3964</Lap>
+				<Lap num="3" p="8" et="278.0574" s1="40.1921" s2="52.5699" s3="20.0454" fuel="0.306">112.8075</Lap>
+				<Lap num="4" p="3" et="390.8649" s1="42.2515" s2="50.7065" s3="20.8260" fuel="0.286">113.7841</Lap>
+				<Lap num="5" p="5" et="504.6490" s1="41.8205" s2="51.7230" s3="21.4199" fuel="0.271">114.9635</Lap>
+				<Lap num="6" p="5" et="619.6124" s1="39.1949" s2="50.3668" s3="20.5695" fuel="0.255" pit="1">110.1313</Lap>
+				<Lap num="7" p="8" et="729.7437" s1="55.7461" s2="56.5006" s3="19.6512" fuel="0.239">131.8979</Lap>
+				<Lap num="8" p="5" et="861.6417" s1="39.3332" s2="51.3523" s3="19.6105" fuel="0.220">110.2960</Lap>
+				<Lap num="9" p="3" et="971.9377" s1="39.0821" s2="53.1801" s3="23.8613" fuel="0.204">116.1235</Lap>
+				<Lap num="10" p="3" et="1088.0612" s1="39.6552" s2="51.2922" s3="20.2861" fuel="0.188">111.2335</Lap>
+				<Lap num="11" p="3" et="1199.2947" s1="44.2135" s2="51.4888" s3="20.5011" fuel="0.173" pit="1">116.2034</Lap>
+				<Lap num="12" p="3" et="1315.4980" s1="57.1956" s2="52.0917" s3="19.2971" fuel="0.153">128.5844</Lap>
+				<Lap num="13" p="3" et="1444.0824" s1="38.0048" s2="49.2317" s3="19.8301" fuel="0.137">107.0665</Lap>
+				<Lap num="14" p="3" et="1551.1489" s1="47.1080" s2="56.0884" s3="19.4767" fuel="0.122">122.6731</Lap>
+				<Lap num="15" p="3" et="1673.8220" s1="40.2037" s2="51.0747" s3="19.7222" fuel="0.102">111.0006</Lap>
+				<Lap num="16" p="3" et="1784.8226" s1="39.1743" s2="50.0272" s3="20.0264" fuel="0.086">109.2279</Lap>
+				<BestLapTime>107.0665</BestLapTime>
+				<FinishTime>1852.6306</FinishTime>
+				<Laps>16</Laps>
+				<Pitstops>0</Pitstops>
+				<FinishStatus>Finished Normally</FinishStatus>
+				<ControlAndAids startLap="1" endLap="16">PlayerControl,TC=3,ABS=2,Stability=2,Clutch,Invulnerable,AutoBlip</ControlAndAids>
+			</Driver>
+			<Driver>
+				<Name>Ayrton Senna</Name>
+				<Connected>1</Connected>
+				<VehFile>ASENNA_08.VEH</VehFile>
+				<UpgradeCode>00000000 00000000</UpgradeCode>
+				<VehName>#08 Ayrton Senna</VehName>
+				<CarType>F1 1993</CarType>
+				<CarClass>F1 1993</CarClass>
+				<CarNumber>8</CarNumber>
+				<TeamName>McLaren MP4/8</TeamName>
+				<isPlayer>0</isPlayer>
+				<GridPos>3</GridPos>
+				<Position>4</Position>
+				<ClassGridPos>3</ClassGridPos>
+				<ClassPosition>4</ClassPosition>
+				<Points>3</Points>
+				<ClassPoints>3</ClassPoints>
+				<LapRankIncludingDiscos>4</LapRankIncludingDiscos>
+				<Lap num="1" p="1" et="41.4199" s1="41.9636" s2="51.0589" s3="20.6657" fuel="0.314">113.6881</Lap>
+				<Lap num="2" p="1" et="155.1081" s1="41.6076" s2="51.9047" s3="20.9974" fuel="0.298">114.5097</Lap>
+				<Lap num="3" p="2" et="269.6177" s1="41.2598" s2="50.5307" s3="20.0554" fuel="0.278">111.8459</Lap>
+				<Lap num="4" p="2" et="381.4636" s1="39.9864" s2="51.3183" s3="20.0871" fuel="0.263">111.3918</Lap>
+				<Lap num="5" p="2" et="492.8553" s1="40.0416" s2="50.6920" s3="20.0182" fuel="0.243">110.7517</Lap>
+				<Lap num="6" p="2" et="603.6071" s1="39.9486" s2="50.9291" s3="20.5305" fuel="0.227">111.4082</Lap>
+				<Lap num="7" p="2" et="715.0153" s1="39.9880" s2="51.6811" s3="21.2589" fuel="0.208">112.9280</Lap>
+				<Lap num="8" p="3" et="827.9433" s1="41.1934" s2="51.7596" s3="21.0006" fuel="0.192">113.9536</Lap>
+				<Lap num="9" p="5" et="941.8969" s1="57.4169" s2="60.6525" s3="44.2516" fuel="0.169" pit="1">162.3209</Lap>
+				<Lap num="10" p="5" et="1104.2178" s1="61.5098" s2="49.5509" s3="20.0084" fuel="0.153">131.0691</Lap>
+				<Lap num="11" p="4" et="1235.2869" s1="41.3828" s2="51.7609" s3="19.9792" fuel="0.133">113.1229</Lap>
+				<Lap num="12" p="4" et="1348.4098" s1="40.2788" s2="50.0786" s3="19.8674" fuel="0.118">110.2249</Lap>
+				<Lap num="13" p="4" et="1458.6346" s1="39.4081" s2="50.0808" s3="19.8005" fuel="0.098">109.2894</Lap>
+				<Lap num="14" p="4" et="1567.9241" s1="39.3898" s2="50.5922" s3="19.7677" fuel="0.082">109.7496</Lap>
+				<Lap num="15" p="4" et="1677.6737" s1="39.3756" s2="50.0232" s3="20.3031" fuel="0.063">109.7019</Lap>
+				<Lap num="16" p="4" et="1787.3756" s1="39.2236" s2="49.7705" s3="19.7797" fuel="0.047">108.7738</Lap>
+				<BestLapTime>108.7738</BestLapTime>
+				<FinishTime>1854.7295</FinishTime>
+				<Laps>16</Laps>
+				<Pitstops>1</Pitstops>
+				<FinishStatus>Finished Normally</FinishStatus>
+				<ControlAndAids startLap="1" endLap="16">AIControl</ControlAndAids>
+			</Driver>
+			<Driver>
+				<Name>Michael Schumacher</Name>
+				<Connected>1</Connected>
+				<VehFile>MSCHUMACHER_05.VEH</VehFile>
+				<UpgradeCode>00000000 00000000</UpgradeCode>
+				<VehName>#05 Michael Schumacher</VehName>
+				<CarType>F1 1993</CarType>
+				<CarClass>F1 1993</CarClass>
+				<CarNumber>5</CarNumber>
+				<TeamName>Benetton B193</TeamName>
+				<isPlayer>0</isPlayer>
+				<GridPos>4</GridPos>
+				<Position>12</Position>
+				<ClassGridPos>4</ClassGridPos>
+				<ClassPosition>12</ClassPosition>
+				<Points>0</Points>
+				<ClassPoints>0</ClassPoints>
+				<LapRankIncludingDiscos>5</LapRankIncludingDiscos>
+				<Lap num="1" p="2" et="41.4199" s1="44.1881" s2="50.4255" s3="20.7175" fuel="0.314">115.3311</Lap>
+				<Lap num="2" p="3" et="156.7510" s1="40.0744" s2="52.1050" s3="21.6075" fuel="0.294">113.7870</Lap>
+				<Lap num="3" p="4" et="270.5380" s1="41.5949" s2="53.7887" s3="23.6964" fuel="0.278">119.0800</Lap>
+				<Lap num="4" p="7" et="389.6180" s1="46.5638" s2="53.7123" s3="21.6619" fuel="0.263">121.9379</Lap>
+				<Lap num="5" p="7" et="511.5560" s1="40.0068" s2="50.6516" s3="20.4836" fuel="0.243">111.1420</Lap>
+				<Lap num="6" p="7" et="622.6979" s1="39.8376" s2="51.3751" s3="21.3162" fuel="0.227">112.5289</Lap>
+				<Lap num="7" p="5" et="735.2269" s1="44.1805" s2="52.7133" s3="21.6188" fuel="0.212">118.5126</Lap>
+				<Lap num="8" p="7" et="853.7394" s1="45.5562" s2="74.4152" s3="22.8290" fuel="0.192">142.8004</Lap>
+				<Lap num="9" p="12" et="996.5398" s1="46.7577" s2="83.4395" s3="90.8944" fuel="0.169">221.0916</Lap>
+				<Lap num="10" p="12" et="1217.6313" s1="56.1299" s2="66.5304" s3="23.3682" fuel="0.149">146.0284</Lap>
+				<Lap num="11" p="12" et="1363.6598" s1="44.8643" s2="61.0167" s3="40.1675" fuel="0.129" pit="1">146.0485</Lap>
+				<Lap num="12" p="12" et="1509.7083" s1="64.3822" s2="51.1582" s3="20.1254" fuel="0.114">135.6658</Lap>
+				<Lap num="13" p="12" et="1645.3740" s1="39.0437" s2="51.1952" s3="20.5775" fuel="0.094">110.8164</Lap>
+				<Lap num="14" p="12" et="1756.1904" s1="39.0725" s2="49.8512" s3="20.0886" fuel="0.078">109.0123</Lap>
+				<BestLapTime>109.0123</BestLapTime>
+				<FinishTime>1823.7828</FinishTime>
+				<Laps>14</Laps>
+				<Pitstops>1</Pitstops>
+				<FinishStatus>Finished Normally</FinishStatus>
+				<ControlAndAids startLap="1" endLap="14">AIControl</ControlAndAids>
+			</Driver>
+			<Driver>
+				<Name>Rubens Barrichello</Name>
+				<Connected>1</Connected>
+				<VehFile>RBARRICHELLO_14.VEH</VehFile>
+				<UpgradeCode>00000000 00000000</UpgradeCode>
+				<VehName>#14 Rubens Barrichello</VehName>
+				<CarType>F1 1993</CarType>
+				<CarClass>F1 1993</CarClass>
+				<CarNumber>14</CarNumber>
+				<TeamName>Jordan 193</TeamName>
+				<isPlayer>0</isPlayer>
+				<GridPos>6</GridPos>
+				<Position>5</Position>
+				<ClassGridPos>6</ClassGridPos>
+				<ClassPosition>5</ClassPosition>
+				<Points>2</Points>
+				<ClassPoints>2</ClassPoints>
+				<LapRankIncludingDiscos>6</LapRankIncludingDiscos>
+				<Lap num="1" p="5" et="41.4199" s1="45.9622" s2="51.6492" s3="21.4187" fuel="0.314">119.0301</Lap>
+				<Lap num="2" p="4" et="160.4500" s1="40.1321" s2="50.2155" s3="20.3020" fuel="0.294">110.6496</Lap>
+				<Lap num="3" p="3" et="271.0996" s1="41.3081" s2="53.6050" s3="23.0934" fuel="0.278">118.0065</Lap>
+				<Lap num="4" p="6" et="389.1061" s1="46.7668" s2="53.9229" s3="20.7375" fuel="0.259">121.4271</Lap>
+				<Lap num="5" p="6" et="510.5333" s1="40.0759" s2="50.4024" s3="20.4053" fuel="0.243">110.8836</Lap>
+				<Lap num="6" p="6" et="621.4169" s1="39.9821" s2="50.8195" s3="20.0813" fuel="0.224">110.8829</Lap>
+				<Lap num="7" p="4" et="732.2998" s1="40.5137" s2="52.8611" s3="22.0743" fuel="0.208">115.4491</Lap>
+				<Lap num="8" p="4" et="847.7489" s1="43.2169" s2="53.8433" s3="21.5917" fuel="0.188">118.6519</Lap>
+				<Lap num="9" p="4" et="966.4008" s1="46.6911" s2="65.8015" s3="23.3154" fuel="0.169" pit="1">135.8080</Lap>
+				<Lap num="10" p="4" et="1102.2089" s1="60.2640" s2="50.6744" s3="20.9861" fuel="0.153">131.9246</Lap>
+				<Lap num="11" p="5" et="1234.1334" s1="44.2750" s2="55.4141" s3="21.1837" fuel="0.137">120.8728</Lap>
+				<Lap num="12" p="5" et="1355.0062" s1="39.3416" s2="49.9170" s3="19.8456" fuel="0.118">109.1041</Lap>
+				<Lap num="13" p="5" et="1464.1104" s1="39.3319" s2="54.9304" s3="20.2656" fuel="0.098">114.5280</Lap>
+				<Lap num="14" p="5" et="1578.6383" s1="40.1698" s2="52.4969" s3="21.6802" fuel="0.082">114.3469</Lap>
+				<Lap num="15" p="5" et="1692.9852" s1="42.3590" s2="50.8549" s3="19.7866" fuel="0.067">113.0005</Lap>
+				<BestLapTime>109.1041</BestLapTime>
+				<FinishTime>1764.5658</FinishTime>
+				<Laps>15</Laps>
+				<Pitstops>1</Pitstops>
+				<FinishStatus>Finished Normally</FinishStatus>
+				<ControlAndAids startLap="1" endLap="15">AIControl</ControlAndAids>
+			</Driver>
+			<Driver>
+				<Name>Damon Hill</Name>
+				<Connected>1</Connected>
+				<VehFile>DHILL_00.VEH</VehFile>
+				<UpgradeCode>00000000 00000000</UpgradeCode>
+				<VehName>#00 Damon Hill</VehName>
+				<CarType>F1 1993</CarType>
+				<CarClass>F1 1993</CarClass>
+				<CarNumber>0</CarNumber>
+				<TeamName>Williams FW15C</TeamName>
+				<isPlayer>0</isPlayer>
+				<GridPos>5</GridPos>
+				<Position>7</Position>
+				<ClassGridPos>5</ClassGridPos>
+				<ClassPosition>7</ClassPosition>
+				<Points>0</Points>
+				<ClassPoints>0</ClassPoints>
+				<LapRankIncludingDiscos>7</LapRankIncludingDiscos>
+				<Lap num="1" p="13" et="41.4199" s1="42.6456" s2="51.9782" s3="34.2068" fuel="0.314">128.8307</Lap>
+				<Lap num="2" p="11" et="170.2507" s1="40.4700" s2="51.2741" s3="20.2265" fuel="0.294">111.9706</Lap>
+				<Lap num="3" p="10" et="282.2213" s1="39.8645" s2="51.9030" s3="20.3278" fuel="0.278">112.0953</Lap>
+				<Lap num="4" p="10" et="394.3165" s1="43.7286" s2="55.2757" s3="20.3538" fuel="0.259">119.3582</Lap>
+				<Lap num="5" p="9" et="513.6747" s1="44.3218" s2="53.6871" s3="20.0885" fuel="0.243">118.0974</Lap>
+				<Lap num="6" p="9" et="631.7721" s1="43.6439" s2="50.7593" s3="20.3862" fuel="0.224">114.7895</Lap>
+				<Lap num="7" p="7" et="746.5616" s1="39.8638" s2="50.9930" s3="20.5021" fuel="0.208">111.3589</Lap>
+				<Lap num="8" p="8" et="857.9205" s1="42.2728" s2="73.6253" s3="23.1824" fuel="0.188">139.0805</Lap>
+				<Lap num="9" p="6" et="997.0010" s1="46.3699" s2="67.9120" s3="22.7910" fuel="0.169" pit="1">137.0729</Lap>
+				<Lap num="10" p="6" et="1134.0740" s1="62.1101" s2="53.0835" s3="19.7600" fuel="0.153">134.9536</Lap>
+				<Lap num="11" p="6" et="1269.0276" s1="39.1212" s2="49.8986" s3="20.2356" fuel="0.133">109.2554</Lap>
+				<Lap num="12" p="7" et="1378.2830" s1="39.1925" s2="52.1724" s3="50.7529" fuel="0.114">142.1178</Lap>
+				<Lap num="13" p="7" et="1520.4008" s1="43.9607" s2="51.7587" s3="20.4783" fuel="0.094">116.1976</Lap>
+				<Lap num="14" p="7" et="1636.5984" s1="39.4379" s2="50.2042" s3="20.3253" fuel="0.078">109.9674</Lap>
+				<Lap num="15" p="7" et="1746.5658" s1="39.3929" s2="50.6162" s3="20.4646" fuel="0.063">110.4738</Lap>
+				<BestLapTime>109.2554</BestLapTime>
+				<FinishTime>1815.6196</FinishTime>
+				<Laps>15</Laps>
+				<Pitstops>1</Pitstops>
+				<FinishStatus>Finished Normally</FinishStatus>
+				<ControlAndAids startLap="1" endLap="15">AIControl</ControlAndAids>
+			</Driver>
+			<Driver>
+				<Name>Michael Andretti</Name>
+				<Connected>1</Connected>
+				<VehFile>MANDRETTI_07.VEH</VehFile>
+				<UpgradeCode>00000000 00000000</UpgradeCode>
+				<VehName>#07 Michael Andretti</VehName>
+				<CarType>F1 1993</CarType>
+				<CarClass>F1 1993</CarClass>
+				<CarNumber>7</CarNumber>
+				<TeamName>McLaren MP4/8</TeamName>
+				<isPlayer>0</isPlayer>
+				<GridPos>7</GridPos>
+				<Position>8</Position>
+				<ClassGridPos>7</ClassGridPos>
+				<ClassPosition>8</ClassPosition>
+				<Points>0</Points>
+				<ClassPoints>0</ClassPoints>
+				<LapRankIncludingDiscos>8</LapRankIncludingDiscos>
+				<Lap num="1" p="4" et="41.4199" s1="44.8017" s2="51.4922" s3="22.5419" fuel="0.314">118.8357</Lap>
+				<Lap num="2" p="5" et="160.2557" s1="41.1180" s2="50.8934" s3="20.2791" fuel="0.294">112.2905</Lap>
+				<Lap num="3" p="6" et="272.5461" s1="40.2956" s2="53.2705" s3="24.2929" fuel="0.278">117.8590</Lap>
+				<Lap num="4" p="11" et="390.4052" s1="47.3720" s2="57.6787" s3="22.1258" fuel="0.263">127.1766</Lap>
+				<Lap num="5" p="11" et="517.5817" s1="43.1494" s2="52.0818" s3="20.9785" fuel="0.247">116.2097</Lap>
+				<Lap num="6" p="13" et="633.7914" s1="71.9703" s2="51.1823" s3="20.4456" fuel="0.227">143.5981</Lap>
+				<Lap num="7" p="13" et="777.3896" s1="41.2598" s2="73.0698" s3="37.6552" fuel="0.204">151.9847</Lap>
+				<Lap num="8" p="11" et="929.3743" s1="54.0656" s2="60.2592" s3="23.1377" fuel="0.184" pit="1">137.4625</Lap>
+				<Lap num="9" p="11" et="1066.8368" s1="62.4213" s2="50.0234" s3="20.1711" fuel="0.169">132.6158</Lap>
+				<Lap num="10" p="10" et="1199.4526" s1="39.5177" s2="50.1315" s3="19.9362" fuel="0.149">109.5853</Lap>
+				<Lap num="11" p="10" et="1309.0380" s1="39.5841" s2="50.2556" s3="20.0806" fuel="0.133">109.9203</Lap>
+				<Lap num="12" p="10" et="1418.9583" s1="39.6388" s2="50.3564" s3="19.9562" fuel="0.114">109.9514</Lap>
+				<Lap num="13" p="9" et="1528.9097" s1="39.6761" s2="53.3932" s3="19.9543" fuel="0.094">113.0237</Lap>
+				<Lap num="14" p="8" et="1641.9333" s1="39.6761" s2="52.8171" s3="20.1934" fuel="0.078">112.6866</Lap>
+				<Lap num="15" p="8" et="1754.6200" s1="39.7098" s2="50.3993" s3="20.1385" fuel="0.059">110.2477</Lap>
+				<BestLapTime>109.5853</BestLapTime>
+				<FinishTime>1823.4478</FinishTime>
+				<Laps>15</Laps>
+				<Pitstops>1</Pitstops>
+				<FinishStatus>Finished Normally</FinishStatus>
+				<ControlAndAids startLap="1" endLap="15">AIControl</ControlAndAids>
+			</Driver>
+			<Driver>
+				<Name>Mark Blundell</Name>
+				<Connected>1</Connected>
+				<VehFile>MBLUNDELL_26.VEH</VehFile>
+				<UpgradeCode>00000000 00000000</UpgradeCode>
+				<VehName>#26 Mark Blundell</VehName>
+				<CarType>F1 1993</CarType>
+				<CarClass>F1 1993</CarClass>
+				<CarNumber>26</CarNumber>
+				<TeamName>Ligier JS39</TeamName>
+				<isPlayer>0</isPlayer>
+				<GridPos>8</GridPos>
+				<Position>9</Position>
+				<ClassGridPos>8</ClassGridPos>
+				<ClassPosition>9</ClassPosition>
+				<Points>0</Points>
+				<ClassPoints>0</ClassPoints>
+				<LapRankIncludingDiscos>9</LapRankIncludingDiscos>
+				<Lap num="1" p="6" et="41.4199" s1="46.5471" s2="53.4586" s3="20.3265" fuel="0.314">120.3322</Lap>
+				<Lap num="2" p="6" et="161.7521" s1="40.3359" s2="51.2001" s3="20.4383" fuel="0.298">111.9743</Lap>
+				<Lap num="3" p="7" et="273.7264" s1="40.3897" s2="52.0926" s3="24.3293" fuel="0.278">116.8116</Lap>
+				<Lap num="4" p="8" et="390.5380" s1="45.7785" s2="53.6711" s3="21.8120" fuel="0.263">121.2615</Lap>
+				<Lap num="5" p="8" et="511.7995" s1="40.6486" s2="51.3873" s3="20.4399" fuel="0.243">112.4758</Lap>
+				<Lap num="6" p="8" et="624.2753" s1="48.3676" s2="50.8989" s3="20.2216" fuel="0.224">119.4880</Lap>
+				<Lap num="7" p="6" et="743.7633" s1="41.8527" s2="50.9495" s3="20.3859" fuel="0.208">113.1880</Lap>
+				<Lap num="8" p="6" et="856.9514" s1="42.5251" s2="74.1308" s3="22.0927" fuel="0.188">138.7487</Lap>
+				<Lap num="9" p="8" et="995.7000" s1="46.2731" s2="102.6025" s3="25.3242" fuel="0.169" pit="1">174.1999</Lap>
+				<Lap num="10" p="9" et="1169.8999" s1="60.8722" s2="50.3678" s3="19.9847" fuel="0.149">131.2247</Lap>
+				<Lap num="11" p="9" et="1301.1246" s1="39.6764" s2="50.1238" s3="19.8831" fuel="0.133">109.6832</Lap>
+				<Lap num="12" p="9" et="1410.8079" s1="39.8180" s2="50.3145" s3="20.1079" fuel="0.118">110.2404</Lap>
+				<Lap num="13" p="10" et="1521.0482" s1="43.6195" s2="66.5280" s3="19.9066" fuel="0.098">130.0541</Lap>
+				<Lap num="14" p="10" et="1651.1023" s1="39.8445" s2="50.3542" s3="20.0464" fuel="0.078">110.2451</Lap>
+				<Lap num="15" p="9" et="1761.3474" s1="40.3646" s2="51.0824" s3="19.9661" fuel="0.063">111.4131</Lap>
+				<BestLapTime>109.6832</BestLapTime>
+				<FinishTime>1831.3406</FinishTime>
+				<Laps>15</Laps>
+				<Pitstops>1</Pitstops>
+				<FinishStatus>Finished Normally</FinishStatus>
+				<ControlAndAids startLap="1" endLap="15">AIControl</ControlAndAids>
+			</Driver>
+			<Driver>
+				<Name>Johnny Herbert</Name>
+				<Connected>1</Connected>
+				<VehFile>JHERBERT_12.VEH</VehFile>
+				<UpgradeCode>00000000 00000000</UpgradeCode>
+				<VehName>#12 Johnny Herbert</VehName>
+				<CarType>F1 1993</CarType>
+				<CarClass>F1 1993</CarClass>
+				<CarNumber>12</CarNumber>
+				<TeamName>Lotus 107B</TeamName>
+				<isPlayer>0</isPlayer>
+				<GridPos>13</GridPos>
+				<Position>13</Position>
+				<ClassGridPos>13</ClassGridPos>
+				<ClassPosition>13</ClassPosition>
+				<Points>0</Points>
+				<ClassPoints>0</ClassPoints>
+				<LapRankIncludingDiscos>10</LapRankIncludingDiscos>
+				<Lap num="1" p="10" et="41.4199" s1="47.4242" s2="54.1831" s3="21.4431" fuel="0.314">123.0505</Lap>
+				<Lap num="2" p="7" et="164.4704" s1="40.5296" s2="50.4409" s3="20.1330" fuel="0.294">111.1035</Lap>
+				<Lap num="3" p="5" et="275.5739" s1="39.8663" s2="50.8800" s3="23.4320" fuel="0.278">114.1783</Lap>
+				<Lap num="4" p="4" et="389.7522" s1="43.5074" s2="51.1978" s3="20.6841" fuel="0.259">115.3893</Lap>
+				<Lap num="5" p="4" et="505.1415" s1="40.2678" s2="51.3010" s3="20.8292" fuel="0.243">112.3980</Lap>
+				<Lap num="6" p="4" et="617.5395" s1="40.2242" s2="50.3718" s3="20.3047" fuel="0.224">110.9008</Lap>
+				<Lap num="7" p="11" et="728.4403" s1="39.8362" s2="50.7378" s3="67.2831" fuel="0.204">157.8571</Lap>
+				<BestLapTime>110.9008</BestLapTime>
+				<Laps>7</Laps>
+				<Pitstops>0</Pitstops>
+				<FinishStatus>DNF</FinishStatus>
+				<DNFReason>DNF</DNFReason>
+				<ControlAndAids startLap="1" endLap="7">AIControl</ControlAndAids>
+			</Driver>
+			<Driver>
+				<Name>Erik Comas</Name>
+				<Connected>1</Connected>
+				<VehFile>ECOMAS_20.VEH</VehFile>
+				<UpgradeCode>00000000 00000000</UpgradeCode>
+				<VehName>#20 Erik Comas</VehName>
+				<CarType>F1 1993</CarType>
+				<CarClass>F1 1993</CarClass>
+				<CarNumber>20</CarNumber>
+				<TeamName>Larrousse LH93</TeamName>
+				<isPlayer>0</isPlayer>
+				<GridPos>11</GridPos>
+				<Position>10</Position>
+				<ClassGridPos>11</ClassGridPos>
+				<ClassPosition>10</ClassPosition>
+				<Points>0</Points>
+				<ClassPoints>0</ClassPoints>
+				<LapRankIncludingDiscos>11</LapRankIncludingDiscos>
+				<Lap num="1" p="12" et="41.4199" s1="46.8988" s2="54.9845" s3="21.6945" fuel="0.314">123.5778</Lap>
+				<Lap num="2" p="9" et="164.9977" s1="41.1723" s2="52.2517" s3="20.4687" fuel="0.298">113.8928</Lap>
+				<Lap num="3" p="12" et="278.8905" s1="40.7808" s2="81.1963" s3="20.5291" fuel="0.278">142.5062</Lap>
+				<Lap num="4" p="12" et="421.3967" s1="40.8905" s2="51.4854" s3="20.5431" fuel="0.259">112.9189</Lap>
+				<Lap num="5" p="12" et="534.3156" s1="40.9244" s2="51.6145" s3="20.5402" fuel="0.243">113.0792</Lap>
+				<Lap num="6" p="11" et="647.3948" s1="41.9810" s2="51.4328" s3="20.5134" fuel="0.224">113.9271</Lap>
+				<Lap num="7" p="10" et="761.3219" s1="40.8571" s2="51.5384" s3="32.3892" fuel="0.204">124.7847</Lap>
+				<Lap num="8" p="10" et="886.1066" s1="45.8832" s2="86.7585" s3="22.2781" fuel="0.184">154.9199</Lap>
+				<Lap num="9" p="10" et="1041.0265" s1="44.6960" s2="73.9006" s3="31.7782" fuel="0.165" pit="1">150.3749</Lap>
+				<Lap num="10" p="11" et="1191.4014" s1="61.1407" s2="50.5647" s3="20.1437" fuel="0.149">131.8491</Lap>
+				<Lap num="11" p="11" et="1323.2505" s1="40.0968" s2="50.6881" s3="20.1813" fuel="0.129">110.9662</Lap>
+				<Lap num="12" p="11" et="1434.2167" s1="40.1584" s2="50.7745" s3="20.2384" fuel="0.114">111.1714</Lap>
+				<Lap num="13" p="11" et="1545.3881" s1="40.2030" s2="50.8182" s3="20.2889" fuel="0.094">111.3102</Lap>
+				<Lap num="14" p="11" et="1656.6982" s1="40.2272" s2="50.8605" s3="20.2198" fuel="0.078">111.3075</Lap>
+				<Lap num="15" p="10" et="1768.0057" s1="40.2114" s2="50.7867" s3="23.2192" fuel="0.059">114.2174</Lap>
+				<BestLapTime>110.9662</BestLapTime>
+				<FinishTime>1840.8032</FinishTime>
+				<Laps>15</Laps>
+				<Pitstops>1</Pitstops>
+				<FinishStatus>Finished Normally</FinishStatus>
+				<ControlAndAids startLap="1" endLap="15">AIControl</ControlAndAids>
+			</Driver>
+			<Driver>
+				<Name>Derek Warwick</Name>
+				<Connected>1</Connected>
+				<VehFile>DWARWICK_09.VEH</VehFile>
+				<UpgradeCode>00000000 00000000</UpgradeCode>
+				<VehName>#09 Derek Warwick</VehName>
+				<CarType>F1 1993</CarType>
+				<CarClass>F1 1993</CarClass>
+				<CarNumber>9</CarNumber>
+				<TeamName>Footwork FA14</TeamName>
+				<isPlayer>0</isPlayer>
+				<GridPos>12</GridPos>
+				<Position>11</Position>
+				<ClassGridPos>12</ClassGridPos>
+				<ClassPosition>11</ClassPosition>
+				<Points>0</Points>
+				<ClassPoints>0</ClassPoints>
+				<LapRankIncludingDiscos>12</LapRankIncludingDiscos>
+				<Lap num="1" p="14" et="41.4199" s1="88.0243" s2="51.1892" s3="20.5648" fuel="0.310">159.7783</Lap>
+				<Lap num="2" p="14" et="201.1982" s1="40.7616" s2="52.0379" s3="20.5204" fuel="0.294">113.3199</Lap>
+				<Lap num="3" p="13" et="314.5181" s1="40.8333" s2="51.5995" s3="20.4994" fuel="0.278">112.9322</Lap>
+				<Lap num="4" p="13" et="427.4503" s1="40.8557" s2="51.2308" s3="20.7034" fuel="0.259">112.7899</Lap>
+				<Lap num="5" p="13" et="540.2402" s1="40.8817" s2="51.3549" s3="20.6224" fuel="0.243">112.8591</Lap>
+				<Lap num="6" p="12" et="653.0992" s1="40.8976" s2="51.4351" s3="21.1606" fuel="0.224">113.4933</Lap>
+				<Lap num="7" p="12" et="766.5925" s1="43.5302" s2="77.6038" s3="23.1406" fuel="0.204" pit="1">144.2746</Lap>
+				<Lap num="8" p="12" et="910.8671" s1="85.3578" s2="50.9641" s3="20.2500" fuel="0.184">156.5720</Lap>
+				<Lap num="9" p="9" et="1067.4391" s1="40.2450" s2="52.0406" s3="22.0101" fuel="0.169">114.2958</Lap>
+				<Lap num="10" p="8" et="1181.7349" s1="40.3733" s2="51.0383" s3="20.2878" fuel="0.149">111.6995</Lap>
+				<Lap num="11" p="8" et="1293.4343" s1="40.3635" s2="52.7256" s3="20.2822" fuel="0.133">113.3713</Lap>
+				<Lap num="12" p="8" et="1406.8057" s1="40.3434" s2="51.7747" s3="21.6998" fuel="0.114">113.8179</Lap>
+				<Lap num="13" p="8" et="1520.6235" s1="43.8738" s2="53.2172" s3="20.4205" fuel="0.098">117.5115</Lap>
+				<Lap num="14" p="9" et="1638.1350" s1="41.0778" s2="56.2996" s3="21.9814" fuel="0.078">119.3588</Lap>
+				<Lap num="15" p="11" et="1757.4938" s1="44.0964" s2="56.7214" s3="66.3109" fuel="0.055" pit="1">167.1288</Lap>
+				<BestLapTime>111.6995</BestLapTime>
+				<FinishTime>1883.2026</FinishTime>
+				<Laps>15</Laps>
+				<Pitstops>1</Pitstops>
+				<FinishStatus>Finished Normally</FinishStatus>
+				<ControlAndAids startLap="1" endLap="15">AIControl</ControlAndAids>
+			</Driver>
+			<Driver>
+				<Name>Ukyo Katayama</Name>
+				<Connected>1</Connected>
+				<VehFile>UKATAYAMA_03.VEH</VehFile>
+				<UpgradeCode>00000000 00000000</UpgradeCode>
+				<VehName>#03 Ukyo Katayama</VehName>
+				<CarType>F1 1993</CarType>
+				<CarClass>F1 1993</CarClass>
+				<CarNumber>3</CarNumber>
+				<TeamName>Tyrrell 020C</TeamName>
+				<isPlayer>0</isPlayer>
+				<GridPos>10</GridPos>
+				<Position>6</Position>
+				<ClassGridPos>10</ClassGridPos>
+				<ClassPosition>6</ClassPosition>
+				<Points>1</Points>
+				<ClassPoints>1</ClassPoints>
+				<LapRankIncludingDiscos>13</LapRankIncludingDiscos>
+				<Lap num="1" p="11" et="41.4199" s1="47.2189" s2="54.5743" s3="21.5381" fuel="0.314">123.3313</Lap>
+				<Lap num="2" p="10" et="164.7513" s1="40.9630" s2="54.4705" s3="20.5014" fuel="0.298">115.9348</Lap>
+				<Lap num="3" p="9" et="280.6861" s1="40.6432" s2="51.3446" s3="20.4147" fuel="0.278">112.4024</Lap>
+				<Lap num="4" p="9" et="393.0885" s1="44.8116" s2="54.1211" s3="21.1787" fuel="0.263">120.1114</Lap>
+				<Lap num="5" p="10" et="513.1999" s1="44.6716" s2="54.8457" s3="20.9238" fuel="0.243">120.4412</Lap>
+				<Lap num="6" p="10" et="633.6411" s1="47.7703" s2="51.6189" s3="20.4466" fuel="0.227">119.8358</Lap>
+				<Lap num="7" p="9" et="753.4769" s1="40.7158" s2="52.2971" s3="21.8864" fuel="0.208">114.8992</Lap>
+				<Lap num="8" p="9" et="868.3761" s1="42.2988" s2="84.3423" s3="23.2908" fuel="0.188" pit="1">149.9319</Lap>
+				<Lap num="9" p="7" et="1018.3080" s1="60.6890" s2="51.3221" s3="21.1420" fuel="0.169">133.1531</Lap>
+				<Lap num="10" p="7" et="1151.4611" s1="44.5809" s2="56.2909" s3="21.6008" fuel="0.153">122.4727</Lap>
+				<Lap num="11" p="7" et="1273.9337" s1="41.9098" s2="51.1589" s3="20.2017" fuel="0.133">113.2704</Lap>
+				<Lap num="12" p="6" et="1387.2041" s1="40.1561" s2="50.8182" s3="21.2390" fuel="0.118">112.2134</Lap>
+				<Lap num="13" p="6" et="1499.4175" s1="44.8627" s2="52.2670" s3="20.2247" fuel="0.102">117.3544</Lap>
+				<Lap num="14" p="6" et="1616.7719" s1="40.1224" s2="50.8699" s3="20.8857" fuel="0.082">111.8781</Lap>
+				<Lap num="15" p="6" et="1728.6499" s1="43.6656" s2="56.0182" s3="22.5291" fuel="0.067">122.2129</Lap>
+				<BestLapTime>111.8781</BestLapTime>
+				<FinishTime>1809.4429</FinishTime>
+				<Laps>15</Laps>
+				<Pitstops>1</Pitstops>
+				<FinishStatus>Finished Normally</FinishStatus>
+				<ControlAndAids startLap="1" endLap="15">AIControl</ControlAndAids>
+			</Driver>
+			<Driver>
+				<Name>Peter</Name>
+				<Connected>1</Connected>
+				<VehFile>MANDRETTI_07.VEH</VehFile>
+				<UpgradeCode>00000000 00000000</UpgradeCode>
+				<VehName>#07 Michael Andretti</VehName>
+				<CarType>F1 1993</CarType>
+				<CarClass>F1 1993</CarClass>
+				<CarNumber>7</CarNumber>
+				<TeamName>McLaren MP4/8</TeamName>
+				<isPlayer>1</isPlayer>
+				<GridPos>14</GridPos>
+				<Position>14</Position>
+				<ClassGridPos>14</ClassGridPos>
+				<ClassPosition>14</ClassPosition>
+				<Points>0</Points>
+				<ClassPoints>0</ClassPoints>
+				<LapRankIncludingDiscos>14</LapRankIncludingDiscos>
+				<Lap num="1" p="9" et="41.4199" s1="46.0390" s2="48.7807" s3="28.0561" fuel="0.337">122.8757</Lap>
+				<Lap num="2" p="12" et="164.2957" s1="46.2881" s2="52.9639" s3="20.3531" fuel="0.322">119.6051</Lap>
+				<Lap num="3" p="14" et="283.9008" s1="56.9192" s2="74.4716" s3="20.2663" fuel="0.302">151.6571</Lap>
+				<Lap num="4" p="14" et="435.5579" s1="119.2478" s2="112.9147" s3="31.7480" fuel="0.278" pit="1">263.9106</Lap>
+				<Lap num="5" p="14" et="699.4684" s1="128.1441" s2="48.7200" s3="20.7040" fuel="0.255" pit="1">197.5681</Lap>
+				<BestLapTime>119.6051</BestLapTime>
+				<Laps>5</Laps>
+				<Pitstops>0</Pitstops>
+				<FinishStatus>DNF</FinishStatus>
+				<DNFReason>DNF</DNFReason>
+				<ControlAndAids startLap="1" endLap="5">PlayerControl,TC=3,ABS=2,Clutch,Invulnerable,AutoBlip</ControlAndAids>
+			</Driver>
+		</Race>
+	</RaceResults>
+</rFactorXML>
