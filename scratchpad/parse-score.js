@@ -60,6 +60,6 @@ const parsedStream = stream?.elements
       lap,
       sector
     }
-})
+  })
 
-console.info({parsedStream})
+console.info({ parsedStream })
